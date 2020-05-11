@@ -1,1 +1,1 @@
-BMBWF-Projekt &quot;Digitale Transformation der österreichischen Geisteswissenschaften&quot;
+# BMBWF-Projekt &quot;Digitale Transformation der österreichischen Geisteswissenschaften&quot;
