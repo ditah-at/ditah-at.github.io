@@ -11,3 +11,4 @@ Im Projekt arbeiten die folgenden Institutionen zusammen:
 * Universität Graz (Projektkoordination)
 * Universität Innsbruck
 * Universität Wien
+* Technische Universität Wien
