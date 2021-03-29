@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="columns">
+  <div class="column is-4">
+
+    <img src="{{page.image}}" alt="page.title">
+
+  </div>
+  <div class="column is-8">
+    <div class="content">
+      {{ content }}
+      {% if page.contact%}
+      <p>Kontakt: {{page.contact}}</p>
+      {% endif %}
+    </div>
+  </div>
+</div>
+<div class="card-footer-item">
+  <p>Published: {{ page.date | date: "%b %-d, %Y" }} by {{ page.author }}</p>
+</div>
+<div class="tags">
+  {% for tag in page.tags %}
+  {% include tag.html tag=tag %}
+  {% endfor %}
+</div>

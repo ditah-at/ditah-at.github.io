@@ -1,0 +1,73 @@
+---
+---
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+
+$primary: #004567;
+$family-sans-serif: 'Open Sans', sans-serif;
+
+// Import Main CSS file from theme
+@import "main";
+
+body {font-family: 'Open Sans', sans-serif;}
+
+
+.hero.is-medium .subtitle.is-3 { font-size: 1.3rem;
+    margin-top: 2rem !important;
+}
+
+.hero.is-medium .hero-body {
+    padding: 4rem 1.5rem;
+}
+
+.navbar {
+    min-height: 4.6rem;
+
+}
+
+
+
+.navbar-item {
+    text-transform: uppercase;
+}
+
+.title {font-weight: normal;}
+
+.title.is-4 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.card-content p {
+    font-size: 14px;
+    margin-top: 1rem;
+} 
+
+.content {font-size: 15px;}
+
+.card-footer-item {
+    font-size: 12px;
+}
+
+.card-image {
+    height: 200px;
+    overflow: hidden;
+}
+
+.navbar-item img {
+    max-height: 2.5rem;
+}
+
+.callout-image {
+    width: 10rem;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
+
+.is-8 {margin-right: 0.75rem;}
+
+.content h3 {
+    font-size: 1.2em;
+    font-weight: normal;
+}

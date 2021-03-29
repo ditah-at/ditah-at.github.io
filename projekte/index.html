@@ -1,0 +1,12 @@
+---
+layout: page
+title: Projekte
+hero_height: is-small
+---
+<div class="columns is-multiline">
+{% for post in site.projects %}
+    <div class="column is-4">
+        {% include post-card.html %}
+    </div>
+{% endfor %}
+</div>

@@ -1,0 +1,9 @@
+style: is-light
+items:
+  - title: Infrastruktur
+    image: /assets/img/icon_infrastructure.png
+  - title: Tools und Methoden
+    image: /assets/img/icon_tools.png
+  - title: Wissenstransfer
+    image: /assets/img/icon_transfer.png
+    

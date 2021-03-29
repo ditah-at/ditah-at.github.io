@@ -1,0 +1,10 @@
+- name: Über DiTAH 
+  link: about
+- name: Partner
+  link: partner
+- name: Projekte
+  link: projekte
+- name: Ressourcen
+  link: ressourcen
+- name: News und Termine
+  link: news
