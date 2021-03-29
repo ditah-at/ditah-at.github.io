@@ -4,6 +4,7 @@ title: "Virtuelles Museum der Archäologischen Sammlungen der Universität Graz"
 image: /assets/img/projects/Laocoon1.png
 hide_share_buttons: true
 hero_height: is-small
+contact: Elisabeth Trinkl; Chiara Zuanni
 summary: Ziel des Projektes ist die prototypische Umsetzung eines Virtuellen Museums. Diese wird in vier Schritten erfolgen.
 ---
 
