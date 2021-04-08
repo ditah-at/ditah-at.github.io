@@ -11,15 +11,15 @@ Zentrum für Informationsmodellierung
 Karl-Franzens-Universität Graz   
 georg.vogeler@uni-graz.at
 
-**Projektkoordination und Redaktion Website**
-Gerlinde Schneider
+**Projektkoordination und Redaktion Website**  
+Gerlinde Schneider  
 Zentrum für Informationsmodellierung  
 Karl-Franzens-Universität Graz 
 gerlinde.schneider@uni-graz.at  
 
 **Finanzierung:**  
-„Digitale und soziale Transformation in der Hochschulbildung“      
-Bundesministeriums für Wissenschaft, Forschung und Wirtschaft  
+„Digitale und soziale Transformation in der Hochschulbildung“        
+Bundesministerium für Wissenschaft, Forschung und Wirtschaft  
 
 **Lizenzierung der bereitgestellten Inhalte**  
 Creative Commons CC-BY  
