@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Virtuelles Museum der Archäologischen Sammlungen der Universität Graz"
+date:   2021-03-26 21:54:05 +0100
+author: Gerlinde Schneider
 image: /assets/img/projects/Laocoon1.png
 hide_share_buttons: true
 hero_height: is-small

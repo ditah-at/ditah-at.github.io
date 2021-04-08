@@ -2,6 +2,7 @@
 layout: post
 title:  "DiTAH Jahrestreffen 2021"
 date:   2021-03-26 21:54:05 +0100
+author: Gerlinde Schneider
 categories: event
 image: /assets/img/Ditah-02.png
 hero_height: is-small

@@ -1,6 +1,7 @@
 ﻿---
 layout: page
 title: Partner
+image: /assets/img/ditahicons/Netzwerk.png
 hero_height: is-small
 permalink: /partner/
 ---
