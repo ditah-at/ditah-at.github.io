@@ -7,8 +7,10 @@ image: /assets/img/projects/Laocoon1.png
 hide_share_buttons: true
 hero_height: is-small
 contact: Elisabeth Trinkl; Chiara Zuanni
-summary: Ziel des Projektes ist die prototypische Umsetzung eines Virtuellen Museums. Diese wird in vier Schritten erfolgen.
+summary: Ziel des Projektes ist die prototypische Umsetzung eines Virtuellen Museums der Archäologischen Sammlungen der Universität Graz. Dieses entsteht am Institut für Antike in Kooperation mit dem Zentrum für Informationsmodellierung / ZIM.
 ---
+
+Im Rahmen des vom BMBWF (Bundesministerium Bildung, Wissenschaft und Forschung) geförderten Projektes DiTAH (Digitale Transformation der österreichischen Geisteswissenschaften) entsteht am Institut für Antike in Kooperation mit dem Institut Zentrum für Informationsmodellierung / ZIM ein Virtuelles Museum der Archäologischen Sammlungen der Universität Graz.
 
 Ziel des Projektes ist die prototypische Umsetzung eines Virtuellen Museums. Diese wird in vier Schritten erfolgen:
 
