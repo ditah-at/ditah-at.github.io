@@ -21,6 +21,8 @@ Ziel des Projektes ist die prototypische Umsetzung eines Virtuellen Museums. Die
 
 Die Arbeiten werden unter direkter Einbindung von Studierenden durchgeführt und durch einschlägige Lehrveranstaltungen am Institut für Antike (M. Christidis, M. Lehner) und am Institut Zentrum für Informationsmodellierung (Ch. Zuanni) begleitet.
 
+Video zum Projekt auf YouTube: [Cast Collection of the University of Graz](https://www.youtube.com/watch?v=MpqQQ4jtwcM)
+
 Mehr: [Institut für Antike](https://antike.uni-graz.at/de/museum-sammlungen/archaeologische-sammlungen/virtuelles-museum-der-archaeologischen-sammlungen-der-universitaet-graz/)
 
 MitarbeiterInnen: Stephan Karl, Jennifer Semler 
