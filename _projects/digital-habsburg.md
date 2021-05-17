@@ -16,7 +16,7 @@ Wichtigstes Ziel ist es, ein informiertes Gespräch zwischen Fachwissenschafter\
 
 Die "Digital Habsburg Platform" ist ein Kooperationsprojekt von Forscher\*innen mit Verankerung an der Österreichischen Akademie der Wissenschaften (IHB und ACDH-CH) sowie an der Universität Wien (Historisch-Kulturwissenschaftliche Fakultät).  
 
-Mehr: Digital Habsburg Platform – collaboratively tackling prosopographical data since 2020  
+Mehr: [Digital Habsburg Platform – collaboratively tackling prosopographical data since 2020](https://digitalhabsburgplatform.github.io/web/)  
 
 Beteiligte: Stephan Kurz, Daniel Schopper, Thomas Wallnig
 
