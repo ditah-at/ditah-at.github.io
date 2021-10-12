@@ -12,10 +12,10 @@ Karl-Franzens-Universität Graz
 georg.vogeler@uni-graz.at
 
 **Projektkoordination und Redaktion Website**  
-Gerlinde Schneider  
+Helmut Klug   
 Zentrum für Informationsmodellierung  
 Karl-Franzens-Universität Graz  
-gerlinde.schneider@uni-graz.at  
+helmut.klug@uni-graz.at  
 
 **Finanzierung:**  
 „Digitale und soziale Transformation in der Hochschulbildung“        
