@@ -1,9 +1,9 @@
 style: is-light
 items:
   - title: Infrastruktur
-    image: {{ site.baseurl }}/assets/img/ditahicons/InfrastrukturGrauBlau.png
+    image: /ditah-at.github.io/assets/img/ditahicons/InfrastrukturGrauBlau.png
   - title: Tools und Methoden
-    image: {{ site.baseurl }}/assets/img/ditahicons/ToolsMethodenGrauBlau.png
+    image: /ditah-at.github.io/assets/img/ditahicons/ToolsMethodenGrauBlau.png
   - title: Wissenstransfer
-    image: {{ site.baseurl }}/assets/img/ditahicons/WissenstransferGrauBlau.png
+    image: /ditah-at.github.io/assets/img/ditahicons/WissenstransferGrauBlau.png
     
