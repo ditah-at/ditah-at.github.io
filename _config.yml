@@ -24,7 +24,7 @@ description: Digitale Transformation der österreichischen Geisteswissenschaften
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://helmutwklug.github.io/ditah-at.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ditah-at
-github_username:  ditah-at
+github_username:  helmutwklug
 
 footer_menu: footer_menu
 
