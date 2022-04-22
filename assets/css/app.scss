@@ -9,7 +9,7 @@ $family-sans-serif: 'Open Sans', sans-serif;
 // Import Main CSS file from theme
 @import "main";
 
-body {font-family: 'Open Sans', sans-serif;}
+body {font-family: 'Open Sans', sans-serif; width: '60%';}
 
 
 .hero.is-medium .subtitle.is-3 { font-size: 1.3rem;
