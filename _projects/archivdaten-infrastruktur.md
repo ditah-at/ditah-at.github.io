@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Archivarische Forschungsdateninfrastruktur 3"
+title: "Archivarische Forschungsdateninfrastruktur"
 date:   2021-07-13 00:00:00 +0100
 author: Helmut W. Klug
 image: /assets/img/projects/ibk-image.png
