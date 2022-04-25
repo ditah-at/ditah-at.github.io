@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "MUTTImodale Manuskriptrepräsentationen (M3R)"
+title: "Multimodale Manuskriptrepräsentationen (M3R)"
 date:   2021-03-26 21:54:05 +0100
 author: Gerlinde Schneider
-image: /assets/img/projects/m3r-image.jpg
+image: ../assets/img/projects/m3r-image.jpg
 hero_height: is-small
 hide_share_buttons: true
 contact: Simon Brenner
