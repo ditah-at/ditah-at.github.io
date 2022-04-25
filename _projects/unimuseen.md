@@ -19,5 +19,5 @@ Die Arbeiten werden teils unter direkter Einbindung von Studierenden in einschl�
 
 MitarbeiterInnen / Kontakt: Bernadette Biedermann, Stefan Köchel
 
-Mehr: [Universitätsmuseen(https://universitaetsmuseen.uni-graz.at/de/)
+Mehr: [Universitätsmuseen](https://universitaetsmuseen.uni-graz.at/de/)
 
