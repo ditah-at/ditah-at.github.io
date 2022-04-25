@@ -3,7 +3,7 @@ layout: post
 title: "Archivarische Forschungsdateninfrastruktur"
 date:   2022-04-25 21:54:05 +0100
 author: Helmut W. Klug
-image: /ditah-at.github.io/assets/img/projects/ibk-image.png
+image: /assets/img/projects/ibk-image.png
 hero_height: is-small
 hide_share_buttons: true
 contact: Markus Ender
