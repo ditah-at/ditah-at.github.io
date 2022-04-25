@@ -8,8 +8,8 @@ hero_height: is-small
 hide_share_buttons: true
 contact: Markus Ender
 summary: Das Teilprojekt der Universität Innsbruck ist am Forschungsinstitut Brenner-Archiv sowie am Archiv für Bau.Kunst.Geschichte angesiedelt und umfasst die drei Arbeitsbereiche RNAB-Interface, Fotodatenbank und das digitale Werkverzeichnis Clemens Holzmeister.
-
 ---
+
 Das Teilprojekt der Universität Innsbruck ist am [Forschungsinstitut Brenner-Archiv](https://www.uibk.ac.at/brenner-archiv/) sowie am [Archiv für Bau.Kunst.Geschichte](https://www.uibk.ac.at/archiv-baukunstgeschichte/) angesiedelt und umfasst drei Arbeitsbereiche:
 
 # RNABle
