@@ -17,4 +17,4 @@ Die Studierenden sollen nach Absolvieren der Lehrveranstaltung einen fundierten 
 
 Vortragende: Stephan Müller, Katharina Hofer, Ivana Dobcheva, Claudia Rapp, Giulia Rossetto, Claudia Römer, Emanuel Wenger, Robert Sablatnig, Simon Brenner, Florian Kleber, Patricia Engel, Manfred Schreiner, Wilfried Vetter, Federica Cappa, Katja Sterflinger
 
-Link zum Vorlesungsverzeichnis der Universität Wien: (https://ufind.univie.ac.at/de/course.html?lv=100200&semester=2022S)
+Link zum Vorlesungsverzeichnis der Universität Wien: https://ufind.univie.ac.at/de/course.html?lv=100200&semester=2022S
