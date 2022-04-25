@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "LV: Einführung in die Methoden der Computer Vision und der Materialanalyse"
-date:   2021-03-26 21:54:05 +0100
+date:   2022-04-26 21:54:05 +0100
 author: Helmut W. Klug
 image: /assets/img/projects/cima_lv.png
 hero_height: is-small
 hide_share_buttons: true
 contact: Simon Brenner
-summary:In dieser primär an Studierende der Geisteswissenschaften gerichteten Lehrveranstaltung werden die grundlegenden Probleme der Handschriftenkunde sowie die technischen Möglichkeiten der Rekonstruktion und digitalen Verarbeitung historischer Objekte behandelt.
+summary: In dieser primär an Studierende der Geisteswissenschaften gerichteten Lehrveranstaltung werden die grundlegenden Probleme der Handschriftenkunde sowie die technischen Möglichkeiten der Rekonstruktion und digitalen Verarbeitung historischer Objekte behandelt.
 ---
 
 Die Vorlesungseinheiten sind in 3 Themenblöcke gegliedert, beginnend mit einem Überblick zu Philologie, Paläographie und Kodikologie verschiedener Traditionen sowie zur Wasserzeichenforschung. Im Computer-Vision Teil werden die Möglichkeiten fotografischer Dokumentation, Multispektralfotografie, Erfassung dreidimensionaler Oberflächenstrukturen und allgemeiner Dokumentenanalyse (z.B. automatisierte Layoutanalyse und Texterkennung) behandelt. Der abschließende Block zur Materialanalyse beinhaltet zerstörungsfreie Methoden zur chemischen Bestimmung von Pigmenten und Tinten, sowie eine Einführung in die Biokodikologie.
