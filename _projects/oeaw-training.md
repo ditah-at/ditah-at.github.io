@@ -15,4 +15,6 @@ Das ACDH-CH kann dafür auf die Expertise und Erfahrung bei Durchführung und Ei
 
 Diese Aktivitäten sind akkordiert mit verwandten Initiativen zu Training und Wissenstransfer der Forschungsinfrastrukturen [CLARIN](https://www.clarin.eu/) und [DARIAH](https://www.dariah.eu/), sowie im Rahmen des Ausbaus von [EOSC](https://www.eosc.eu/) (European Open Science Cloud).
 
+Beteiligte Personen: Vera Maria Charvat (OEAW), Matej Durco (OEAW), Patricia Engel (DUK), John Giebfried (VIE), Max Kaiser (ONB), Helmut W. Klug (KFU), Martin Krickl (ONB), Walter Scholger (KFU), Elisabeth Trinkl (KFU), Thomas Wallnig (VIE), Florian Wiencek (OEAW), Susanne Zhanial (OEAW)
+
 Ansprechperson: Susanne Zhanial
