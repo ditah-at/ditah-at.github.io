@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LV: "Einführung in die Methoden der Computer Vision und der Materialanalyse""
+title: "LV: Einführung in die Methoden der Computer Vision und der Materialanalyse"
 date:   2021-03-26 21:54:05 +0100
 author: Helmut W. Klug
 image: /assets/img/projects/cima_lv.png
