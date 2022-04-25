@@ -17,4 +17,6 @@ Durch intensivere Abstimmung der Repositorienbetreiber:innen untereinander (klar
 
 Einen wichtigen Punkt stellt auch die Vor- und Aufbereitung der Ressourcen in Hinblick auf die Anknüpfung zu externen Aggregatoren im europäischen Raum wie beispielsweise [OpenAIRE](https://www.openaire.eu/) (Open Access Infrastructure for Research in Europe), [SSHOC](https://sshopencloud.eu/) (Social Sciences and Humanities Open Cloud) und [EOSC](https://www.eosc.eu/) (European Open Science Cloud) dar. Diese Aufgabe wird im Teilprojekt "ACDH-CH (ÖAW) - EOSC" erarbeitet.
 
+Beteiligte Personen: Matej Ďurčo (OEAW), Raman Ganguly (VIE), Elisabeth Steiner (KFU)
+
 Ansprechperson: Matej Ďurčo
