@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Repositoriendiscovery"
+title: "EOSC (European Open Science Cloud)"
 date:   2022-04-25 00:00:00 +0100
 author: Helmut W. Klug
 image: /assets/img/projects/oeaw-eosc.png
