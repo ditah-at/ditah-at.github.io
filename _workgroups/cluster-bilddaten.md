@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cluster bilddaten"
+title: "Cluster Bilddaten"
 date:   2022-04-23 00:00:00 +0100
 author: Helmut W. Klug
 image: ../assets/img/ditahicons/Wissenstransfer.png
