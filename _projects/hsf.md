@@ -3,7 +3,7 @@ layout: post
 title: "Digitale Transformation in der Handschriftenforschung"
 date:   2022-03-26 21:54:05 +0100
 author: Gerlinde Schneider
-image: assets/img/projects/tuw_lv.png
+image: ../assets/img/projects/tuw_lv.png
 hero_height: is-small
 hide_share_buttons: true
 contact: Simon Brenner
