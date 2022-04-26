@@ -3,7 +3,7 @@ layout: post
 title: "Repositoriendiscovery"
 date:   2022-04-25 00:00:00 +0100
 author: Helmut W. Klug
-image: /ditah-at.github.io/assets/img/projects/oeaw-discovery.png
+image: /assets/img/projects/oeaw-discovery.png
 hide_share_buttons: true
 hero_height: is-small
 contact: Matej Ďurčo
