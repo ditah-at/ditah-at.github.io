@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Einführung in die Methoden der Computer Vision und der Materialanalyse (Lehrveranstaltung)"
+title: "Lehrveranstaltung: Digitale Transformation in der Handschriftenforschung"
 date:   2022-04-26 21:54:05 +0100
 author: Helmut W. Klug
 image: /assets/img/projects/cima_lv.png
