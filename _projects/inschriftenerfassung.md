@@ -3,7 +3,7 @@ layout: post
 title: "Erfassungstool für antike Inschriften"
 date:   2022-04-25 00:00:00 +0100
 author: Helmut W. Klug
-image: /assets/img/projects/inschriftenerfassung.png
+image: ../assets/img/projects/inschriftenerfassung.png
 hide_share_buttons: true
 hero_height: is-small
 contact: Werner Petermandl
