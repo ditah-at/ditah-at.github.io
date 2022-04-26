@@ -3,7 +3,7 @@ layout: post
 title: "Digital Habsburg Platform"
 date:   2021-05-11 00:00:00 +0100
 author: Gerlinde Schneider
-image: /assets/img/projects/BinaryEagle.png
+image: ../assets/img/projects/BinaryEagle.png
 hide_share_buttons: true
 hero_height: is-small
 contact: thomas.wallnig@univie.ac.at
