@@ -3,7 +3,7 @@ layout: post
 title: "Publikationsplattform Hyperdiplomatische Transkription"
 date:   2021-07-13 00:00:00 +0100
 author: Gerlinde Schneider
-image: /assets/img/projects/hyper.jpg
+image: ../assets/img/projects/hyper.jpg
 hide_share_buttons: true
 hero_height: is-small
 contact: Helmut W. Klug, Selina Galka
