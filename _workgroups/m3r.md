@@ -3,7 +3,7 @@ layout: post
 title: "AG Multimodale Manuskriptpräsentation"
 date:   2022-04-23 00:00:00 +0100
 author: Helmut W. Klug
-image: ../assets/img/ditahicons/Infrastructure.png
+image: ../assets/img/ditahicons/Infrastruktur.png
 hide_share_buttons: true
 hero_height: is-small
 contact: Simon Brenner
