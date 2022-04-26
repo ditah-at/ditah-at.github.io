@@ -36,6 +36,8 @@ paginate_path: "/news/page:num"
 collections:
   projects:
     output: true
+  workgroups:
+    output: true
 
 # Build settings
 remote_theme: lindesc/bulma-clean-theme@ditah
