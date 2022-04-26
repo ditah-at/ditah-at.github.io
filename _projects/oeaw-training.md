@@ -3,7 +3,7 @@ layout: post
 title: "DH Training"
 date:   2022-04-25 00:00:00 +0100
 author: Helmut W. Klug
-image: /assets/img/projects/oeaw-training.png
+image: ../assets/img/projects/oeaw-training.png
 hide_share_buttons: true
 hero_height: is-small
 contact: Matej Ďurčo
