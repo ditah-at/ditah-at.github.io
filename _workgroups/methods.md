@@ -7,7 +7,7 @@ image: ../assets/img/ditahicons/ToolsMethoden.png
 hide_share_buttons: true
 hero_height: is-small
 contact: Helmut W. Klug
-summary: LOREM IPSUM. 
+summary: Im Projekt werden Wege aufgezeigt, wie verschiedenste digitalen Methoden in geisteswissenschaftlicher Lehre (und damit auch der Forschung) etabliert werden können. 
 ---
 
-LOREM IPSUM
+Prototypische Datensets werden mit neuesten Methoden der Digitalen Geisteswissenschaften (Computer Vision, Materialanalyse, lernfähige Analysetools/KI, NLP) ausgewertet. Dabei wird das Projekt Wege aufzeigen, wie diese digitalen Methoden in geisteswissenschaftlicher Lehre (und damit auch der Forschung) etabliert werden können, indem konkrete DH-Lehrmethoden und -modelle entwickelt werden. Es werden ebenso etablierte Ansätze dokumentiert wie die Übertragbarkeit der Methoden getestet. Das Projekt wird insbesondere Ressourcen zur Vermittlung digitaler Methoden in den Bereichen digitale Edition, digitale Bild- und Materialanalysen, Distant Reading, Computer Vision, Annotation und Visualisierung entwickeln und das experimentelle Erkunden von digitalen Datenbeständen und Digital Humanities-Tools ermöglichen.
