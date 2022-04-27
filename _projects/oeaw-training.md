@@ -6,7 +6,7 @@ author: Helmut W. Klug
 image: ../assets/img/projects/oeaw-training.png
 hide_share_buttons: true
 hero_height: is-small
-contact: Matej Ďurčo
+contact: Susanne Zhanial (Susanne.Zhanial@oeaw.ac.at)
 summary: Das Teilprojekt bzw. Arbeitspaket "Training" am ACDH-CH konzentriert sich auf die Entwicklung von unterstützenden didaktischen Konzepten und Schulungsmaterialien
 ---
 Das Teilprojekt bzw. Arbeitspaket "Training" am [ACDH-CH](https://www.oeaw.ac.at/acdh/) konzentriert sich auf die Entwicklung von unterstützenden didaktischen Konzepten und Schulungsmaterialien, um zum einen Grundlagen der Digital Humanities zu vermitteln, aber andererseits auch die am Institut entwickelten Tools, Services und Methoden einem breit gefächerten Zielpublikum bestehend aus Kolleg:innen, Forscher:innen, Wissenschaftler:innen, Student:innen sowie einer interessierten Öffentlichkeit näherzubringen. 
@@ -17,4 +17,3 @@ Diese Aktivitäten sind akkordiert mit verwandten Initiativen zu Training und Wi
 
 Beteiligte Personen: Vera Maria Charvat (OEAW), Matej Durco (OEAW), Patricia Engel (DUK), John Giebfried (VIE), Max Kaiser (ONB), Helmut W. Klug (KFU), Martin Krickl (ONB), Walter Scholger (KFU), Elisabeth Trinkl (KFU), Thomas Wallnig (VIE), Florian Wiencek (OEAW), Susanne Zhanial (OEAW)
 
-Ansprechperson: Susanne Zhanial
