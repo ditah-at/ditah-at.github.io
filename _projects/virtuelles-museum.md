@@ -6,7 +6,7 @@ author: Gerlinde Schneider
 image: ../assets/img/projects/Laocoon1.png
 hide_share_buttons: true
 hero_height: is-small
-contact: Elisabeth Trinkl; Chiara Zuanni
+contact: Elisabeth Trinkl (elisabeth.trinkl@uni-graz.at); Chiara Zuanni (chiara.zuanni@uni-graz.at)
 summary: Ziel des Projektes ist die prototypische Umsetzung eines Virtuellen Museums der Archäologischen Sammlungen der Universität Graz. Dieses entsteht am Institut für Antike in Kooperation mit dem Zentrum für Informationsmodellierung / ZIM.
 ---
 
