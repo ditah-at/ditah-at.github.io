@@ -6,7 +6,7 @@ author: Helmut W. Klug
 image: ../assets/img/projects/dhlehreuniwien.png
 hide_share_buttons: true
 hero_height: is-small
-contact: Helmut W. Klug, Selina Galka
+contact: Tara Andrews (tara.andrews@univie.ac.at)
 summary: Im Rahmen dieses Teilprojekts werden Inhalte aus zentralen Lehrveranstaltungen des Wiener Masterstudiums „Digital Humanities“ für den öffentlichen Gebrauch aufbereitet und veröffentlicht. 
 ---
 
@@ -16,5 +16,3 @@ Die Kurse, die im Rahmen des Projekts durch die jeweiligen Lehrenden bearbeitet 
 Die Professur für Digital Humanities, bei der dieser Projektteil durchgeführt wird, ist am Institut für Geschichte der Universität Wien angesiedelt; dieses wiederum ist Teil der Historisch-Kulturwissenschaftliche Fakultät.
 
 Beteiligte: Tara Andrews, James Baillie, Daniel Knox, Maxim Romanov (Universität Wien, Institut für Geschichte)
-
-Kontakt: Tara Andrews (tara.andrews@univie.ac.at)
