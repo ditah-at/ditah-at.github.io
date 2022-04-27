@@ -26,5 +26,3 @@ Video zum Projekt auf YouTube: [Cast Collection of the University of Graz](https
 Mehr: [Institut für Antike](https://antike.uni-graz.at/de/museum-sammlungen/archaeologische-sammlungen/virtuelles-museum-der-archaeologischen-sammlungen-der-universitaet-graz/)
 
 MitarbeiterInnen: Stephan Karl, Jennifer Semler 
-
-Kontakt: Elisabeth Trinkl (elisabeth.trinkl@uni-graz.at); Chiara Zuanni (chiara.zuanni@uni-graz.at)
