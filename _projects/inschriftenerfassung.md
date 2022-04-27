@@ -6,7 +6,7 @@ author: Helmut W. Klug
 image: ../assets/img/projects/inschriftenerfassung.png
 hide_share_buttons: true
 hero_height: is-small
-contact: Werner Petermandl
+contact: Werner Petermandl (werner.petermandl@uni-graz.at)
 summary: In diesem Projekt wird an einer Erfassungslösung für antike Inschriften gearbeitet. 
 ---
 
@@ -14,7 +14,3 @@ Aus dem Norden und Westen des Imperium Romanum sind eine Vielzahl von keltischen
 
 Die FWF-Projekte [Die keltischen Götternamen in den Inschriften der römischen Provinz Germania Inferior](https://gams.uni-graz.at/context:fercan) und "Die keltischen Götternamen in den lateinischen Inschriften im linksrheinischen Militärgebiet der Germania Superior" erfassen und beschreiben entsprechende Inschriftenquellen.
 Zur Vereinfachung der Eingabe wird auf Basis des bereits entwickelten Datenmodells eine Erfassungslösung in Form einer benutzerfreundlichen Eingabemaske entwickelt, die bereits Mechanismen zur Qualitätskontrolle beinhalten soll. Die Grundlage für diese Entwicklung bildet der [Patrimonivm-Editor](https://patrimonium.huma-num.fr/atlas/editor/), der wo notwendig angepasst und ergänzt wird. Das Ergebnis dieses Prozesses wird wiederum zur Nachnutzung an die Community zur Verfügung gestellt.
-
-Kontakt: Werner Petermandl (werner.petermandl@uni-graz.at)
-
-
