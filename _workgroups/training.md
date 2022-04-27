@@ -6,7 +6,7 @@ author: Helmut W. Klug
 image: ../assets/img/ditahicons/Wissenstransfer.png
 hide_share_buttons: true
 hero_height: is-small
-contact: Helmut W. Klug
+contact: Helmut W. Klug (helmut.klug@uni-graz.at)
 summary: Es bedarf unterschiedlicher Vermittlungsmodelle, um spezifische Zielgruppen zu erreichen. Im Rahmen dieses Projektes werden sowohl Lehr- und Lernsituationen als auch Wege der Wissenscahftskommunikation verfolgt. 
 ---
 
