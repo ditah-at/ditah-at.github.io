@@ -6,7 +6,7 @@ author: Gerlinde Schneider
 image: ../assets/img/projects/tuw_lv.png
 hero_height: is-small
 hide_share_buttons: true
-contact: Simon Brenner
+contact: Simon Brenner (sbrenner@cvl.tuwien.ac.at)
 summary: In dieser primär an Studierende der Geisteswissenschaften gerichteten Lehrveranstaltung werden die grundlegenden Probleme der Handschriftenkunde sowie die technischen Möglichkeiten der Rekonstruktion und digitalen Verarbeitung historischer Objekte behandelt.
 
 ---
