@@ -6,7 +6,7 @@ author: Helmut W. Klug
 image: ../assets/img/projects/oeaw-discovery.png
 hide_share_buttons: true
 hero_height: is-small
-contact: Matej Ďurčo
+contact: Matej Ďurčo (Matej.Durco@oeaw.ac.at)
 summary: Das Teilprojekt bzw. Arbeitspaket "Repositorien Discovery" am ACDH-CH strebt eine bessere Auffindbarkeit geistes- und kulturwissenschaftlicher Forschungsdaten und -ressourcen in den österreichischen Repositorien an. 
 ---
 Das Teilprojekt bzw. Arbeitspaket "Repositorien Discovery" am [ACDH-CH](https://www.oeaw.ac.at/acdh/) strebt eine bessere Auffindbarkeit geistes- und kulturwissenschaftlicher Forschungsdaten und -ressourcen in den österreichischen Repositorien an.
@@ -18,5 +18,3 @@ Durch intensivere Abstimmung der Repositorienbetreiber:innen untereinander (klar
 Einen wichtigen Punkt stellt auch die Vor- und Aufbereitung der Ressourcen in Hinblick auf die Anknüpfung zu externen Aggregatoren im europäischen Raum wie beispielsweise [OpenAIRE](https://www.openaire.eu/) (Open Access Infrastructure for Research in Europe), [SSHOC](https://sshopencloud.eu/) (Social Sciences and Humanities Open Cloud) und [EOSC](https://www.eosc.eu/) (European Open Science Cloud) dar. Diese Aufgabe wird im Teilprojekt "ACDH-CH (ÖAW) - EOSC" erarbeitet.
 
 Beteiligte Personen: Matej Ďurčo (OEAW), Raman Ganguly (VIE), Elisabeth Steiner (KFU)
-
-Ansprechperson: Matej Ďurčo
