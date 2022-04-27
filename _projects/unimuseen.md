@@ -6,7 +6,7 @@ author: Helmut W. Klug
 image: ../assets/img/projects/unimuseen.png
 hide_share_buttons: true
 hero_height: is-small
-contact: Bernadette Biedermann, Stefan Köchel
+contact: Bernadette Biedermann (bernadette.biedermann@uni-graz.at), Stefan Köchel (stefan.koechel@uni-graz.at)
 summary: Im Mittelpunkt dieses Teilprojektes steht das digitale Kuratieren repräsentativer Objekte am Beispiel der Historisch-Physikalischen Sammlung des UniGraz@Museums. 
 ---
 
@@ -16,8 +16,6 @@ Im Mittelpunkt dieses Teilprojektes steht das digitale Kuratieren repräsentativ
 ** Präsentieren: Entwicklung didaktischer Konzepte für die Hochschullehre und Weiterbildungsmodule im Bereich des „Digitales Kuratieren“ vor dem Hintergrund der Allgemeinen Museologie und der Wissenschaftskommunikation. 
 
 Die Arbeiten werden teils unter direkter Einbindung von Studierenden in einschlägigen Lehrveranstaltungen der Universität Graz durchgeführt.
-
-MitarbeiterInnen / Kontakt: Bernadette Biedermann, Stefan Köchel
 
 Mehr: [Universitätsmuseen](https://universitaetsmuseen.uni-graz.at/de/)
 
