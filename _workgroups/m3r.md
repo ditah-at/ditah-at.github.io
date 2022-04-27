@@ -6,7 +6,7 @@ author: Helmut W. Klug
 image: ../assets/img/ditahicons/Infrastruktur.png
 hide_share_buttons: true
 hero_height: is-small
-contact: Simon Brenner
+contact: Simon Brenner (sbrenner@cvl.tuwien.ac.at)
 summary: Die interdisziplinäre Untersuchung von historischen Handschriften erzeugt eine Vielfalt an Mess- und Beschreibungsdaten. Ein Repositorium setzt diese Daten in Beziehung und stellt sie für Forschung, Bildung und Öffentlichkeit zur Verfügung.
 
 ---
@@ -16,6 +16,4 @@ Als konkreter Anwendungsfall wird das Datenmaterial herangezogen, welches im Rah
 
 Das entstehende Repositorium soll sowohl der Weiterverwendung der Daten in technisch- naturwissenschaftlicher und geisteswissenschaftlicher Forschung, als auch in der universitären Lehre (insbesondere zur Vermittlung technischer Methoden und Datenquellen in den Geisteswissenschaften) zum Einsatz kommen.
 
-Beteiligte Personen: ###
-
-Kontakt: Simon Brenner (sbrenner@cvl.tuwien.ac.at)
+Beteiligte Personen: Stephan Müller, Katharina Hofer, Ivana Dobcheva, Claudia Rapp, Giulia Rossetto, Claudia Römer, Emanuel Wenger, Robert Sablatnig, Simon Brenner, Florian Kleber, Patricia Engel, Manfred Schreiner, Wilfried Vetter, Federica Cappa, Katja Sterflinger
