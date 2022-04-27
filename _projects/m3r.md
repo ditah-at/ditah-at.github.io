@@ -6,7 +6,7 @@ author: Gerlinde Schneider
 image: ../assets/img/projects/m3r-image.jpg
 hero_height: is-small
 hide_share_buttons: true
-contact: Simon Brenner
+contact: Simon Brenner (sbrenner@cvl.tuwien.ac.at)
 summary: Die interdisziplinäre Untersuchung von historischen Handschriften erzeugt eine Vielfalt an Mess- und Beschreibungsdaten. Ein Repositorium setzt diese Daten in Beziehung und stellt sie für Forschung, Bildung und Öffentlichkeit zur Verfügung.
 
 ---
