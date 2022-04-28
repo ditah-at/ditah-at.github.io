@@ -45,4 +45,6 @@ Das [Computer Vision Lab (CVL)](https://cvl.tuwien.ac.at/) ist Teil des Institut
 Kontakt: Simon Brenner (<sbrenner@cvl.tuwien.ac.at>).
 
 # Universität Wien
-t.b.a.
+Die [Universität Wien](https://www.univie.ac.at/) ist die älteste und größte Universität Österreichs . An vielen ihrer 20 Fakultäten, zahlreichen Zentren und Dienstleistungseinrichtungen werden digitale Projekte entwickelt, von denen sich auch einige am Projekt DiTAH beteiligen. Der Zentrale Informatikdienst entwickelt die Services des Repositoriums [Phaidra](https://phaidra.univie.ac.at/) mit Blick auf die österreichische Infrastrukturlandschaft weiter. Forscher:innen der [Philologisch-Kulturwissenschaftlichen](https://phil-kult.univie.ac.at/) und der [Historisch-Kulturwissenschaftlichen Fakultät](https://hist-kult.univie.ac.at/) arbeiten an materialanalytischen Ansätzen in den Geisteswissenschaften, kuratierten Datenverbünden sowie der Verfügbarmachung von Lehrmaterialien aus dem Zusammenhang [des Masterstudiums Digital Humanities](https://studieren.univie.ac.at/studienangebot/masterstudien/digital-humanities-master/), der gemeinsam mit den Masterstudien Data Science und Business Analytics entwickelt wurde.
+
+Kontakt: Tara Andrews (tara.andrews@univie.ac.at), Thomas Wallnig (thomas.wallnig@univie.ac.at) 
