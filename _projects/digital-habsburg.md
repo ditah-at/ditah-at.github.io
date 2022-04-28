@@ -3,10 +3,10 @@ layout: post
 title: "Digital Habsburg Platform"
 date:   2021-05-11 00:00:00 +0100
 author: Gerlinde Schneider
-image: /assets/img/projects/BinaryEagle.png
+image: ../assets/img/projects/BinaryEagle.png
 hide_share_buttons: true
 hero_height: is-small
-contact: thomas.wallnig@univie.ac.at
+contact: Thomas Wallnig (thomas.wallnig@univie.ac.at)
 summary: Die "Digital Habsburg Platform" befördert und dokumentiert den Kontakt zwischen datenorientierten Projekten, die sich mit der neueren Geschichte Zentraleuropas befassen. Ziel ist es, im Rahmen von Workshops anhand von konkreten Datensamples Probleme der Interoperabilität zu diskutieren und, wo möglich, zu lösen. 
 ---
 

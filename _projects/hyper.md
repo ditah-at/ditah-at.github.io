@@ -6,7 +6,7 @@ author: Gerlinde Schneider
 image: ../assets/img/projects/hyper.jpg
 hide_share_buttons: true
 hero_height: is-small
-contact: Helmut W. Klug, Selina Galka
+contact: Helmut W. Klug (helmut.klug@uni-graz.at)
 summary: In diesem Teilprojekt, das am Zentrum für Informationsmodellierung der Uni Graz angesiedelt ist, wird ein bestehender Workflow weiterentwickelt, um Editionsdaten, die nach den Grundlagen der hyperdiplomatischen Transkription erfasst wurden, niederschwellig publizieren zu können. 
 ---
 
@@ -16,7 +16,6 @@ Die hyperdiplomatische Transkriptionsmethode versucht eine historische Quelle m�
 
 Sowohl Dokumentationen als auch Tutorials sollen dabei helfen, den Transkriptions- und Publikationsworkflow nachvollziehen und für unterschiedlichste Editionsprojekte weiterverwenden zu können.
  
-
 Mehr: [Zentrum für Informationsmodellierung](https://informationsmodellierung.uni-graz.at/de/)  
 
 Beteiligte: Helmut W. Klug, Selina Galka, Gerlinde Gangl

@@ -21,20 +21,22 @@
 title: DiTAH
 email: ditah@uni-graz.at
 description: Digitale Transformation der österreichischen Geisteswissenschaften
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ditah.uni-graz.at" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/ditah-at.github.io" # the subpath of your site, e.g. /blog
+url: "https://helmutwklug.github.io/ditah-at.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ditah-at
-github_username:  ditah-at
+github_username:  helmutwklug
 
 footer_menu: footer_menu
 
-logo: /assets/img/ditah_logo_transp_white.png
+logo: /ditah-at.github.io/assets/img/ditah_logo_transp_white.png
 
 paginate: 5
 paginate_path: "/news/page:num"
 
 collections:
   projects:
+    output: true
+  workgroups:
     output: true
 
 # Build settings
