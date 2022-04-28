@@ -6,7 +6,7 @@ author: Helmut W. Klug
 image: ../assets/img/ditahicons/Wissenstransfer.png
 hide_share_buttons: true
 hero_height: is-small
-contact: Helmut W. Klug (helmut.klug@uni-graz.at)
+contact: Carla Milena Zamora Campos <carla.zamora-campos@donau-uni.ac.at>
 summary: Der Cluster Bilddaten bildet im Rahmen der BMBWF-Ausschreibung eine zentrale Anlaufstelle für alle Fragen rund um den Umgang mit Bilddaten. 
 ---
 
