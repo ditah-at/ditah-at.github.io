@@ -1,4 +1,4 @@
----
+------
 layout: post
 title:  "Description of Medieval Book Covers"
 date:   2022-03-12 
@@ -7,7 +7,7 @@ categories: event
 image: /ditah-at.github.io/assets/img/Ditah-02.png
 hero_height: is-small
 hide_share_buttons: true
----
+------
 
 The European Research Centre for Book and Paper Conservation-Restoration and St. Florian Abbey offer a winterschool on the topic of "Description of Medieval Book Covers".
 
