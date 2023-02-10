@@ -17,4 +17,6 @@ in der Gegenwart. Dabei geben die Fragen, was, wann, wo und von wem wie erinnert
 
 Das Ende der ZeitzeugenInnenschaft und die digitale Transformation stellt die Vermittlungsarbeit der Erinnerung an den Nationalsozialismus und seine Opfer vor neue Herausforderungen. Zu diesem Veränderungsprozess möchte DERLA mit seinen medien-, kulturpädagogischen und geschichtsdidaktischen Vermittlungsansätzen beitragen.
 
+Mehr: https://gams.uni-graz.at/context:derla
+
 MitarbeiterInnen: Sebastian Schiller-Stoff u.v.m.
