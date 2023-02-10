@@ -3,7 +3,7 @@ layout: post
 title: "Digitale Erinnerungslandschaft"
 date:   2023-02-09 21:54:05 +0100
 author: Elisabeth Raunig
-image: ../assets/img/projects/Laocoon1.png
+image: ../assets/img/projects/derla.png
 hide_share_buttons: true
 hero_height: is-small
 contact: Univ.-Prof. Dr.Gerald Lamprecht (office.cjs@uni-graz.at)
