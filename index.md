@@ -8,6 +8,8 @@ hero_height: is-medium
 
 **Ein Projekt zu Vermittlung und Ausbau digitaler Kompetenzen, Methoden und Infrastrukturen in geisteswissenschaftlicher Forschung und Lehre - gefördert vom Bundesministerium für Bildung, Wissenschaft und Forschung**
 
+![Image](/assets/img/BMBWF_Logo_srgb_klein.png)
+
 Ziel dieses Projektes ist es, die in den Digital Humanities entwickelten Methoden und Ansätze so zu etablieren und aufzubereiten, dass sie in den alltäglichen Gebrauch geisteswissenschaftlicher Forschung und Nachwuchsbildung übergehen können.
 Zu diesem Zweck werden gemeinsam entwickelte Lösungen in drei großen Themenbereichen geschaffen: Integration der digitalen Infrastruktur, Aufbereitung und niederschwelliger Zugang zu digitalen Methoden und Tools sowie die Vermittlung digitaler Kompetenzen in Wissenschaft und Lehre. Das durchführende Konsortium setzt sich dabei aus Mitgliedern führender österreichischer DH-Standorten zusammen.
 
