@@ -9,6 +9,9 @@ Projektleitung: Universität Graz
 
 Projektpartner: Akademie der bildenden Künste Wien, Donau-Universität Krems, Österreichische Akademie der Wissenschaften, Österreichische Nationalbibliothek, Universität Innsbruck, Universität Salzburg, Universität Wien, Technische Universität Wien
 
+Gefördert von: BMBWF 
+![Image](/assets/img/BMBWF_Logo_srgb.png)
+
 Laufzeit: Mai 2020 – April 2024
 
 Ziel dieses Projektes ist es, die in den Digital Humanities entwickelten Methoden und Ansätze so zu etablieren und aufzubereiten, dass sie in den alltäglichen Gebrauch geisteswissenschaftlicher Forschung und Nachwuchsbildung übergehen können.
