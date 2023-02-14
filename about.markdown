@@ -11,7 +11,7 @@ Projektpartner: Akademie der bildenden Künste Wien, Donau-Universität Krems, �
 
 Gefördert von: BMBWF 
 
-![Image](/assets/img/BMBWF_Logo_srgb.png)
+![Image](/assets/img/BMBWF_Logo_srgb_klein.png)
 
 Laufzeit: Mai 2020 – April 2024
 
