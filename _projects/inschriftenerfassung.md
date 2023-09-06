@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Erfassungstool für antike Inschriften"
-date:   2023-08-06 00:00:00 +0100
+date:   2023-09-06 00:00:00 +0100
 author: Elisabeth Raunig
 image: ../assets/img/projects/inschriftenerfassung.png
 hide_share_buttons: true
