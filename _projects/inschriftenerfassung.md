@@ -2,7 +2,7 @@
 layout: post
 title: "Erfassungstool für antike Inschriften"
 date:   2023-08-06 00:00:00 +0100
-author: Philipp Hofeneder, Winfried Kumpitsch, Elisabeth Raunig
+author: Elisabeth Raunig
 image: ../assets/img/projects/inschriftenerfassung.png
 hide_share_buttons: true
 hero_height: is-small
