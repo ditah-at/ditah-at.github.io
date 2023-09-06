@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Die Drucke des 16. Jahrhunderts an der UB Graz"
-date:   2022-04-25 00:00:00 +0100
-author: Helmut W. Klug
+date:   2023-09-06 00:00:00 +0100
+author: Elisabeth Raunig
 image: ../assets/img/projects/vestigiaVD16.png
 hide_share_buttons: true
 hero_height: is-small
