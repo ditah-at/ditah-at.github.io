@@ -12,10 +12,10 @@ Karl-Franzens-Universität Graz
 georg.vogeler@uni-graz.at
 
 **Projektkoordination und Redaktion Website**  
-Helmut Klug   
+Philipp Hofeneder
 Zentrum für Informationsmodellierung  
 Karl-Franzens-Universität Graz  
-helmut.klug@uni-graz.at  
+philipp.hofeneder@uni-graz.at
 
 **Finanzierung:**  
 „Digitale und soziale Transformation in der Hochschulbildung“        
