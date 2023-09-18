@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "DH Forschung, Helpdesk und Lehre | Universität Salzburg"
-date:   2023-09-18 00:00:00 +0100
+date:   2023-09-18 10:20:00 +0100
 author: Elisabeth Raunig
 image: ../assets/img/projects/plus.png
 hide_share_buttons: true
 hero_height: is-small
 contact: Christina Antenhofer (christina.antenhofer@plus.ac.at), Katharina Zeppezauer-Wachauer (katharina.wachauer@plus.ac.at)
-summary: Im Rahmen von DITAH beschäftigt sich PLUS mit der Intensivierung der DH Lehre und der Schaffung eines DH-Helpdesks an der PLUS sowie der Evaluierung der Anforderungen an Repositorien in Bezug auf Semantic Web und LOD im Cultural-Heritage-Bereich.
+summary: Im Rahmen von DiTAH beschäftigt sich PLUS mit der Intensivierung der DH Lehre und der Schaffung eines DH-Helpdesks an der PLUS sowie der Evaluierung der Anforderungen an Repositorien in Bezug auf Semantic Web und LOD im Cultural-Heritage-Bereich.
 
 ---
 
