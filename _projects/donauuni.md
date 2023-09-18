@@ -7,8 +7,7 @@ image: ../assets/img/projects/donauuni.jpg
 hide_share_buttons: true
 hero_height: is-small
 contact: Patricia Engel (patricia.engel@donau-uni.ac.at)
-summary: Dieses Teilprojekt beschäftigt sich mit der Geschichte der Handschriftenrestaurierung im Stift St. Flarian in Oberösterreich.
-
+summary: Dieses Teilprojekt beschäftigt sich mit der Geschichte der Handschriftenrestaurierung im Stift St. Florian in Oberösterreich.
 ---
 
 Die Restaurierung von Handschriften trägt nicht nur zum Erhalt historischer Quellen bei, sondern liefert auch eine Reihe an wertvollen Informationen, die für benachbarte Wissenschaftsdisziplinen wie der Paläographie oder Geschichte von Bedeutung sind und zu neuen wissenschaftlichen Erkenntnissen beitragen. Das an der Universität für Weiterbildung in Krems angesiedelte Teilprojekt setzt sich zum Ziel, ausgewählte Beispiele solcher Restaurierungen zu sammeln, auszuwerten und allgemein zugänglich zu machen.
