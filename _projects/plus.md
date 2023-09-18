@@ -1,14 +1,13 @@
 ---
 layout: post
 title: "DH Forschung, Helpdesk und Lehre | Universität Salzburg"
-date:   2023-09-18 10:20:00 +0100
+date:   2023-09-18 00:00:00 +0100
 author: Elisabeth Raunig
 image: ../assets/img/projects/plus.png
 hide_share_buttons: true
 hero_height: is-small
 contact: Christina Antenhofer (christina.antenhofer@plus.ac.at), Katharina Zeppezauer-Wachauer (katharina.wachauer@plus.ac.at)
 summary: Im Rahmen von DiTAH beschäftigt sich PLUS mit der Intensivierung der DH Lehre und der Schaffung eines DH-Helpdesks an der PLUS sowie der Evaluierung der Anforderungen an Repositorien in Bezug auf Semantic Web und LOD im Cultural-Heritage-Bereich.
-
 ---
 
 Die Digital Humanities (DH) haben sich in den letzten Jahren zu einem immer wichtigeren Bereich an der Paris Lodron Universität Salzburg (PLUS) entwickelt. Die PLUS bietet eine breite Palette von Lehrveranstaltungen, Datenschätzen und Forschungen im Bereich der DH an. Eine Bündelung der Aktivitäten erfolgt insbesondere am Interdisziplinären Zentrum für Mittelalter und Frühneuzeit (IZMF).
