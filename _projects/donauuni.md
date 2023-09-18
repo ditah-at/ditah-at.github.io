@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Handschriftenrestaurierung - Universität für Weiterbildung Krems"
-date:   2023-09-18 10:50:00 +0100
+date:   2023-09-18 11:00:00 +0100
 author: Elisabeth Raunig
 image: ../assets/img/projects/donauuni.jpg
 hide_share_buttons: true
