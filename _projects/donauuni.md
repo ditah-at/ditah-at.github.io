@@ -3,7 +3,7 @@ layout: post
 title: "Handschriftenrestaurierung - Universität für Weiterbildung Krems"
 date:   2023-09-18 10:50:00 +0100
 author: Elisabeth Raunig
-image: ../assets/img/projects/donauuni.png
+image: ../assets/img/projects/donauuni.jpg
 hide_share_buttons: true
 hero_height: is-small
 contact: Patricia Engel (patricia.engel@donau-uni.ac.at)
