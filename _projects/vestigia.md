@@ -14,4 +14,4 @@ Dieses Teilprojekt hat zum Ziel, die Drucke des 16. Jahrhunderts (ca. 13.000 an 
 
 In der Abteilung für Sondersammlungen an der Universitätsbibliothek Graz hat sich eine Projektgruppe zusammengefunden, um die etwa 13.000 Bücher aus dem 16. Jahrhundert, die hier aufbewahrt werden, diesbezüglich zu untersuchen. Zudem werden auch kleinere Sammlungen untersucht (etwa die Vorauer Bücher des 16. Jahrhunderts, 650 Bände). Sämtliche bibliographischen Daten werden erhoben, die »objektspezifischen Merkmale« eruiert und buchhistorisch ausgewertet. Alle Daten werden in internationale Datenbanken eingespielt. Der Abgleich mit diesen hat bereits erste Erfolge erzielt, insofern als einige unikale Objekte hier in Graz ausgemacht werden konnten.
 
-Mehr: Digi | [16 Druckwerke des 16. Jahrhunderts](https://unipub.uni-graz.at/obvugrcinque)  (inkl. vollständig digitalisierter Werke)
+Mehr: [Digi | 16 Druckwerke des 16. Jahrhunderts](https://unipub.uni-graz.at/obvugrcinque)  (inkl. vollständig digitalisierter Werke)
