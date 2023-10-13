@@ -3,7 +3,7 @@ layout: post
 title: "Publikationen"
 date:   2023-13-10 21:54:05 +0100
 author: Elisabeth Raunig
-image: ../assets/img/projects/derla.png
+image: ../assets/img/projects/donauuni.jpg
 hide_share_buttons: true
 hero_height: is-small
 contact: Philipp Hofeneder (philipp.hofeneder@uni-graz.at)
