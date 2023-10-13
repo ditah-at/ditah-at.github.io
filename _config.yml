@@ -38,6 +38,8 @@ collections:
     output: true
   workgroups:
     output: true
+  results:
+    output: true
 
 # Build settings
 remote_theme: lindesc/bulma-clean-theme@ditah
