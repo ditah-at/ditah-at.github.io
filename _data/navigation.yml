@@ -8,7 +8,8 @@
   link: arbeitsgruppen
 - name: Ressourcen
   link: ressourcen
-- name: News und Termine
-  link: news
 - name: Ergebnisse
   link: ergebnisse
+- name: News und Termine
+  link: news
+
