@@ -16,7 +16,7 @@ Ehrl, Harald, Engel, Patricia (2021) "A system in which the old covers shall be 
 
 Ender, Markus (2021) „Kommentierte Online-Edition des Gesamtbriefwechsels Ludwig von Ficker“ , in: Klug, Helmut W., unter Mitarbeit von Selina Galka und Elisabeth Steiner im HRSM Projekt "Kompetenznetzwerk Digitale Edition". KONDE Weißbuch. Aufgerufen am: 11.10.2023. Handle: hdl.handle.net/11471/562.50.233. PID: o:konde.p11.
 
-Ender, Markus, Wang-Kathrein, Joseph (2023) “Experience with Workflow using MS Word and a DOCX to TEI Converter”, in: Bleier Roman, Klug, Helmut (Hg.) Digitale Edition in Österreich. Digital Scolarly Edition in Austria. Norderstedt: BoD 2022 (= Schriften des Instituts für Dokumentologie und Editorik, Bd 16), 57–69.
+Ender, Markus, Wang-Kathrein, Joseph (2023) “Experience with Workflow using MS Word and a DOCX to TEI Converter”, in: Bleier Roman, Klug, Helmut (Hg.) Digitale Edition in Österreich. Digital Scholarly Edition in Austria. Norderstedt: BoD 2022 (= Schriften des Instituts für Dokumentologie und Editorik, Bd 16), 57–69.
 
 Ender, Markus (2022) „Kommentierte Online-Edition des Gesamtbriefwechsels Ludwig von Ficker“, in: Bleier Roman; Klug, Helmut (Hg.) Digitale Edition in Österreich/Digital Scolarly Edition in Austria. Norderstedt: BoD (= Schriften des Instituts für Dokumentologie und Editorik, Bd 16), 174–175.
 
@@ -52,7 +52,7 @@ Historisch-physikalische Sammlung in den Universitätsmuseen, https://gams.uni-g
 
 Joseph Zoderer im Zoom. Web-Portal zu Leben und Werk Joseph Zoderers. Hg. von Ulrich Lobis, Joseph Wang-Kathrein, Irene Zanol, Wolfgang Praßl und Verena Zankl, https://literaturtirol.at/zoderer/. 
 
-Learning Ressources in the DH,  (https://howto.acdh.oeaw.ac.at/resources/posts/page/1)
+Learning Resources in the DH,  (https://howto.acdh.oeaw.ac.at/resources/posts/page/1)
 
 Ludwig von Ficker: Gesamtbriefwechsel. Kommentierte Online-Edition. Hg. von Markus Ender, Ingrid Fürhapter, Ulrike Tanzer und Joseph Wang-Kathrein in Zusammenarbeit mit Anton Unterkircher im Auftrag des Forschungsinstituts Brenner-Archiv der Universität Innsbruck. Innsbruck (2023), https://www.ficker-gesamtbriefwechsel.net.3.
 
@@ -60,4 +60,3 @@ Ludwig von Ficker: Gesamtbriefwechsel. Kommentierte Online-Edition. Hg. von Mark
 „Annolzyer“, Tool zur Erforschung historischer Zeitungen und Zeitschriften, https://labs.onb.ac.at/de/topic/annolyzer/.
 
 “Hyperlyse”, Programm zur Darstellung von HSI-Daten, (https://smithers.cvl.tuwien.ac.at/sbrenner/hyperlyse)
-![image](https://github.com/ditah-at/ditah-at.github.io/assets/45683496/468773c2-2b0f-4835-84fe-502210a09d71)
