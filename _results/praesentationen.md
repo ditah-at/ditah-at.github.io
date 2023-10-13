@@ -130,4 +130,3 @@ Wang-Kathrein, Joseph (Februar 2023) Beispiele aus dem Brenner-Archiv.  Datenwoc
 Wang-Kathrein, Joseph, Simon, Robert (Jänner 2023) Wissensgewinnung in digitalen Kontexten und Beziehung zwischen Datenstruktur und ihrer Applikation. Vorstellung der ‚meknes-FinderApp‘. Innovation, Nachhaltigkeit, Antike? Klassikstudien im digitalen Zeitalter. Regensburg.
 
 Wang-Kathrein, Lobis, Ulrich (September 2022) Das digitale Original. Workshop zum ‘Original’. Die Archivalie im Zeitalter der multimedialen Repräsentierbarkeit”, Innsbruck.
-![image](https://github.com/ditah-at/ditah-at.github.io/assets/45683496/abcd7403-29e8-4db0-818b-ee23c9cd136d)
