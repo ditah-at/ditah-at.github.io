@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Präsentationen, Veranstaltungen u. Vorträge"
-date:   2023-10-14 00:00:05 +0100
+date:   2023-10-14 00:00:00 +0100
 author: Elisabeth Raunig
 image: ../assets/img/projects/donauuni.jpg
 hide_share_buttons: true
