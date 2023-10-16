@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Publikationen"
-date:   2023-10-14 00:00:00 +0100
+date:   2023-10-14 00:00:00
 author: Elisabeth Raunig
 image: ../assets/img/projects/donauuni.jpg
 hide_share_buttons: true
@@ -57,6 +57,6 @@ Learning Resources in the DH,  (https://howto.acdh.oeaw.ac.at/resources/posts/pa
 Ludwig von Ficker: Gesamtbriefwechsel. Kommentierte Online-Edition. Hg. von Markus Ender, Ingrid Fürhapter, Ulrike Tanzer und Joseph Wang-Kathrein in Zusammenarbeit mit Anton Unterkircher im Auftrag des Forschungsinstituts Brenner-Archiv der Universität Innsbruck. Innsbruck (2023), https://www.ficker-gesamtbriefwechsel.net.3.
 
 
-„Annolzyer“, Tool zur Erforschung historischer Zeitungen und Zeitschriften, https://labs.onb.ac.at/de/topic/annolyzer/.
+„Annolyzer“, Tool zur Erforschung historischer Zeitungen und Zeitschriften, https://labs.onb.ac.at/de/topic/annolyzer/.
 
 “Hyperlyse”, Programm zur Darstellung von HSI-Daten, (https://smithers.cvl.tuwien.ac.at/sbrenner/hyperlyse)
