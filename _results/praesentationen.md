@@ -10,6 +10,7 @@ contact: Philipp Hofeneder (philipp.hofeneder@uni-graz.at)
 summary: Alle Präsentationen, Veranstaltungen u. Vorträge die im Zuge von DiTAH stattgefunden haben.
 ---
 
+
 Konferenzpanel „ISECS as a Platform for DH Convergence“ (7. Juli 2023), Rom.
 
 Konferenzpanel „New Approaches to the History of the Eighteenth Century Book in Central Europe“ (3. Juli 2023), Rom.
