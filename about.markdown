@@ -13,7 +13,7 @@ Gefördert von: BMBWF
 
 ![Image](/assets/img/BMBWF_Logo_srgb_klein.png)
 
-Laufzeit: Mai 2020 – April 2024
+Laufzeit: Mai 2020 – Dezember 2024
 
 Ziel dieses Projektes ist es, die in den Digital Humanities entwickelten Methoden und Ansätze so zu etablieren und aufzubereiten, dass sie in den alltäglichen Gebrauch geisteswissenschaftlicher Forschung und Nachwuchsbildung übergehen können.
 Zu diesem Zweck werden gemeinsam entwickelte Lösungen in drei großen Themenbereichen geschaffen: Integration der digitalen Infrastruktur, Aufbereitung und niederschwelliger Zugang zu digitalen Methoden und Tools sowie die Vermittlung digitaler Kompetenzen in Wissenschaft und Lehre. Das durchführende Konsortium setzt sich dabei aus Mitgliedern führender österreichischer DH-Standorten zusammen.
