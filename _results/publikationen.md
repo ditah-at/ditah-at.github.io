@@ -10,7 +10,7 @@ contact: Philipp Hofeneder (philipp.hofeneder@uni-graz.at)
 summary: Alle Publikationen die im Zuge von DiTAH finanzierten Projekten publiziert wurden.
 ---
 
-Antenhofer, Christina, Kühberger, Christoph, Strohmeyer, Arno (2023) Digital Humanities in den Geisteswissenschaften (=UTB 6116), Wien: Böhlau.
+Antenhofer, Christina, Kühberger, Christoph, Strohmeyer, Arno (2023) Digital Humanities in den Geschichtswissenschaften (=UTB 6116), Wien: Böhlau.
 
 Ehrl, Harald, Engel, Patricia (2021) "A system in which the old covers shall be documented and preserved: A contribution to the history of book restoration in Austria - Eleonore Klee", Conservation Update 1: 10-35. doi: 10.48341/08s1-k967.
 
