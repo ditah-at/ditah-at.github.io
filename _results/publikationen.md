@@ -44,6 +44,9 @@ Preining, Christian (2022) Clemens Holzmeister: Die fotografische Repräsentatio
 
 Spickermann, Wolfgang; Wedenig, Reinhold (2022) „Kleininschriften“, in: Eich, Armin (Hg.) Inschriften edieren und kommentieren. Berlin et al.: De Gruyter, 131-148.
 
+Vogeler, Georg; Hofeneder, PHilipp (2023) „Die digitale Transformation der österreichischen Geisteswissenschaften und ihre Herausforderungen für die Zukunft: Strukturelle Perspektiven für die Integration von Datenwissenschaften, maschinellem Lernen und künstlicher Intelligenz“, in: Zeitschrift für Hochschulentwicklung 18 (Sonderheft Forschung), 141–162. https://doi.org/10.21240/zfhe/SH-F/09
+
+## Digitale Ressourcen
 
 Digitale Erinnerungslandschaft DERLA, https://gams.uni-graz.at/context:derla 
 Franz und Franziska Jägerstätter Edition. Hg. von Andreas Schmoller und Verena Lorber. Version: 01.06.2023, https://edition.jaegerstaetter.at/. 
