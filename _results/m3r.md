@@ -3,7 +3,7 @@ layout: post
 title: "Multi-Modal Manuscript Representations"
 date:   2024-04-29 00:00:00 +0100
 author: Elisabeth Raunig
-image: ../assets/img/projects/m3r1.png
+image: ../assets/img/projects/m3r-image.jpg
 hide_share_buttons: true
 hero_height: is-small
 contact: Simon Brenner (sbrenner@cvl.tuwien.ac.at)
