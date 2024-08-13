@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Projektabschlussveranstaltung"
-date:   2024-08-13 22:19:05 +0100
+date:   2024-08-13 09:10:05 +0100
 author: Elisabeth Raunig
 categories: news
 image: /ditah-at.github.io/assets/img/DiTAHAbschlussveranstaltung.png
