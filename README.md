@@ -1,5 +1,6 @@
 # Ditah_Test
-test site for the ditah.at relaunch
+Website for ditah.at relaunch after 12.9.2024
+
 ## Project
 DiTAH Digitale Transformation der Österreichisches Geisteswissenschaften
 Austrian Cooperation Project
