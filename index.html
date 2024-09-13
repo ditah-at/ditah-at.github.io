@@ -780,38 +780,6 @@
     </div>
     
     <script>
-      window.addEventListener('scroll', function() {
-  // Check if the screen is wider than 600px
-  if (window.matchMedia('(min-width: 600px)').matches) {
-    // Get the scroll position
-    const scrollPosition = window.scrollY;
-
-    // Set a threshold (change this value to adjust when the color changes)
-    const threshold = 200;
-
-    // Get the element by ID
-    const navColor = document.getElementById('navindex');
-
-    // Change the background color of the element when the threshold is crossed
-    if (scrollPosition > threshold) {
-        navColor.style.backgroundColor = '#ffffff'; // Change to any color you like
-    } else {
-        navColor.style.backgroundColor = '#003652'; // Original color
-    }
-
-    // Select and iterate over each text element to change its color
-    const textElements = navColor.querySelectorAll('a.indexnavitem');
-    textElements.forEach(function(element) {
-      if (scrollPosition > threshold) {
-        element.style.color = '#003652'; // Change text color to the original for each element
-      } else {
-        element.style.color = '#ffffff'; // Change text color to white for each element
-      }
-    });
-  }
-}); 
-    </script>
- <!-- <script>
   
   window.addEventListener('scroll', function() {
       // Get the scroll position
@@ -844,7 +812,7 @@ textElements.forEach(function(element) {
 
   });
 </script>
--->
+
    
     
     <script src="js/jquery-3.5.1.min.js"></script>
