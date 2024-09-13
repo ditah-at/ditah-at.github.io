@@ -24,8 +24,139 @@
   <body>
     <!--information overlay, loaded externally from infooverlay.html-->
     <div id="infooverlay"></div>
-    <!--information overlay, loaded externally from navbarsearch.html-->
-    <div id="navbarsearch"></div>
+    <div class="site-mobile-menu site-navbar-target sticky-top">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close">
+          <span class="icofont-close js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div>
+    
+    <div class="container sticky-top">
+      
+      
+      <nav class="site-nav sticky-top" style="background-color: #ffffff !important;">
+        <div class="logo">
+          <a href="index.html" class="text-white"><img src="images/DiTAH_Logo_blau-01.svg" alt="Ditah Logo"/></a>
+          <!-- ditah logo onscroll change to black -->
+        </div>
+        
+        
+        <div class="row align-items-center">
+          
+          
+          <div class="col-12 col-sm-12 col-lg-12 site-navigation text-center">
+            <ul class="js-clone-nav d-none d-lg-inline-block text-left site-menu">
+              <li class="active"><a href="index.html">Home</a></li>
+              <li class="has-children">
+                <a href="#">Partner</a>
+                <ul class="dropdown">
+                  <li><a href="partner.html#ug" onclick="scrolldown(this)">Universität Graz (Lead)</a></li>
+                  <li><a href="partner.html#oaw" onclick="scrolldown(this)">Österreichische Akademie der Wissenschaften</a></li>
+                  <li><a href="partner.html#onb" onclick="scrolldown(this)">Österreichische Nationalbibliothek</a></li>
+                  <li><a href="partner.html#plus" onclick="scrolldown(this)">Paris Lodron Universität Salzburg</a></li>
+                  <li><a href="partner.html#uw" onclick="scrolldown(this)">Universität Wien</a></li>
+                  <li><a href="partner.html#ui" onclick="scrolldown(this)">Universität Innsbruck</a></li>
+                  <li class="has-children">
+                    <a href="#">CiMA Verbund</a>
+                    <ul class="dropdown">
+                      <li><a href="partner.html#abk" onclick="scrolldown(this)">Akademie der bildenden Künste</a></li>
+                      <li><a href="partner.html#oaw" onclick="scrolldown(this)">Österreichische Akademie der Wissenschaften</a></li>
+                      <li><a href="partner.html#tuw" onclick="scrolldown(this)">Technische Universität Wien</a></li>
+                      <li><a href="partner.html#krems" onclick="scrolldown(this)">Universität für Weiterbildung Krems</a></li>
+                      <li><a href="partner.html#uw" onclick="scrolldown(this)">Universität Wien</a></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+              
+              <li class="has-children">
+                <a href="#">Projekte</a>
+                <ul class="dropdown">
+                  <li class="has-children">
+                    <a href="#">Projekte A - F</a>
+                    <ul class="dropdown">
+                      <li><a href="cima.html"><b>CiMA</b>-Projekte</a></li>
+                      <li><a href="rnab.html">Datenverwaltung für <b>RNAB</b>-konforme Metadaten</a></li>
+                      <li><a href="derla.html"><b>DERLA</b> | Verfolgung und Widerstand im Nationalsozialismus – Dokumentieren und Vermitteln</a></li>
+                      <li><a href="dhlehregraz.html"><b>DH Lehre</b> an der Universität Graz</a></li>
+                      <li><a href="dhlehre.html"><b>DH Lehre</b> an der Universität Wien</a></li>
+                      <li><a href="dhplus.html"><b>DH an der PLUS</b></a></li>
+                      <li><a href="digi16.html"><b>Digi 16</b>: Druckwerke des 16. Jahrhunderts</a></li>
+                      <li><a href="fercan.html">Die keltischen Götternamen in den germanischen Provinzen <b>FERCAN</b> / Patrimonium</a></li>
+                      <li><a href="eosc.html"><b>EOSC</b></a></li>
+                      <li><a href="ficker.html">Ludwig von <b>Ficker</b> Edition</a></li>
+                      <li><a href="fotodatenbank.html"><b>Foto-Datenbank</b></a></li>
+                      
+                    </ul>
+                  <li class="has-children">
+                    <a href="#">Projekte G - V</a>
+                    <ul class="dropdown">
+                      <li><a href="gipse.html">Virtuelles Museum (<b>GIPSE</b>)</a></li>
+                      <li><a href="habsburg.html">Digital <b>Habsburg</b> Platform</a></li>
+                      <li><a href="holzmeister.html">Digitales Werkverzeichnis Clemens <b>Holzmeister</b></a></li>
+                      <li><a href="hps.html"><b>Historisch-physikalische Sammlung</b></a></li>
+                      <li><a href="pipelines.html"><b>Hybrid Pipelines</b></a></li>
+                      <li><a href="m3r.html"><b>M3R</b> Multimodale Repräsentation & Analyse von Manuskripten</a></li>
+                      <li><a href="phaidra.html"><b>mūsēum</b> (Phaidra)</a></li> 
+                      <li><a href="onbkulturerbe.html"><b>ÖNB</b> Nutzerzentrierte Zugänge zum digitalen österreichischen Kulturerbe</a></li> 
+                      <li><a href="training.html"><b>Training</b> am ACDH-CH (ÖAW)</a></li>
+                      <li><a href="repository.html"><b>Repository-Discovery</b></a></li>
+                      
+                    </ul>
+                  </li>
+                  
+                  
+                  
+                  
+                </ul>
+              </li>
+              <li class="active"><a href="index.html#about" onclick="scrolldown(this)">About</a></li>
+              
+            </ul>
+            
+            <a href="#" class="burger light ml-auto site-menu-toggle js-menu-toggle d-block d-lg-none" data-toggle="collapse" data-target="#main-navbar">
+              <span></span>
+            </a>
+            
+          </div>
+          
+        </div>  
+      </nav> 
+      <!-- END nav -->
+    </div>
+    
+    <div class="site-section-search row" id="searchboxdown">
+      <div class="col-lg-9 col-sm-6 col-md-8"> </div>
+      <div class=" col-lg-3 col-sm-6 col-md-4 float-right input-group mb-2 mt-5">
+        <input type="text" id="searchBox" class="form-control-sm"
+          placeholder="Suchbegriff eingeben..." aria-label="Search"
+          style="border-color: #004567 !important; border: solid 0.5px; border-radius: 3px;">
+        <button class="btn-sm btn-outline-secondarysub" type="button"
+          style="background-color: #ffffff !important; border-color: #004567 !important; border: solid 0.5px;" onclick="search()"
+          >Suche</button>
+      </div>
+    </div>
+    <!-- END container end nav-->
+    
+    <!-- Modal for search bar, opens when search button is clicked-->
+    <div class="modal fade" id="resultsModal" tabindex="-1" aria-labelledby="resultsModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="resultsModalLabel">Suchergebnisse</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body" id="results"></div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal" style="background-color: #004567">Schließen</button>
+          </div>
+        </div>
+      </div>
+    </div>
    
     <div class="site-section site-cover-2" style="margin-top: 7em; background-image: url('images/hero-min.jpg')">
       <div class="container">
@@ -494,7 +625,7 @@
     <script src="js/jquery.fancybox.min.js"></script>
     <script src="js/custom.js"></script>
     
-    <script src="js/navbarsearch.js"></script>
+   <!-- <script src="js/navbarsearch.js"></script>-->
     <script src="js/infooverlay.js"></script>
     <script src="js/overlay.js"></script>
     <script src="js/footer.js"></script>
