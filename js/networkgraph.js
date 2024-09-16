@@ -41,8 +41,8 @@
             { id: "eosc.html", name: "EOSC", category: "Projekte", category2: "MethodenTools", year: 2024, color: "#006600", tooltip: "<div style='background-color:#006600'><b>Details:</b><br/>European Open Science Cloud (EOSC)</div>", clickable: true},
             { id: "pipelines.html", name: "Hybrid\nPipelines", category: "Projekte", category2: "Infrastruktur", year: 2024, color: "#006600", tooltip: "<div style='background-color:#006600'><b>Details:</b><br/>Hybrid Pipelines</div>", clickable: true},
             { id: "repository.html", name: "Repository-\nDiscovery", category: "Projekte", category2: "Infrastruktur", year: 2023, color: "#006600", tooltip: "<div style='background-color:#006600'><b>Details:</b><br/>Repository-Discovery</div>", clickable: true},
-            { id: "dhlehregraz.html", name: "DH Lehre\nGraz", category: "Projekte", category2: "Wissenstransfer", year: 2022, color: "#006600", tooltip: "<div style='background-color:#006600'><b>Details:</b><br/>Digital Humanities Lehre an der Universität Graz</div>", clickable: true}
-
+            { id: "dhlehregraz.html", name: "DH Lehre\nGraz", category: "Projekte", category2: "Wissenstransfer", year: 2022, color: "#006600", tooltip: "<div style='background-color:#006600'><b>Details:</b><br/>Digital Humanities Lehre an der Universität Graz</div>", clickable: true},
+            { id: "phaidra.html", name: "mūsēum", category: "Projekte", category2: "Infrastruktur", year: 2024, color: "#006600", tooltip: "<div style='background-color:#006600'><b>Details:</b><br/>Phaidra - mūsēum: an easy to use proxy server, orchestrator and serverless runtime for your web applications </div>", clickable: true}
         ];
 
         /* Defining Links between nodes */
@@ -60,6 +60,7 @@
             { source: "Infrastruktur.html", target: "digi16.html" },
             { source: "Infrastruktur.html", target: "repository.html" },
             { source: "Infrastruktur.html", target: "pipelines.html" },
+            { source: "Infrastruktur.html", target: "phaidra.html" },
             
             { source: "MethodenTools.html", target: "Wissenstransfer.html" },
             
@@ -105,6 +106,7 @@
             { source: "partner.html#uw", target: "https://phaidra.univie.ac.at" },
             { source: "partner.html#uw", target: "habsburg.html" },
             { source: "partner.html#uw", target: "dhlehre.html" },
+            { source: "partner.html#uw", target: "phaidra.html" },
             { source: "cima.html", target: "partner.html#uw" },
             { source: "cima.html", target: "partner.html#krems" },
             { source: "cima.html", target: "partner.html#tuw" },
@@ -121,7 +123,8 @@
             { source: "partner.html#tuw", target: "m3r.html" },
             { source: "partner.html#krems", target: "m3r.html" },
             
-            { source: "m3r.html", target: "partner.html#uw" }
+            { source: "m3r.html", target: "partner.html#uw" },
+            { source: "phaidra.html", target: "https://phaidra.univie.ac.at" }
 
         ];
 
