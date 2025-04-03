@@ -1,0 +1,791 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="author" content="Elisabeth Raunig, Maximilian Vogeltanz"/>
+    <link rel="shortcut icon" href="favicon.png"/>
+    <meta name="description" content="Diese Webseite ist die Projektwebseite des BMBWF-Projekts DiTAH Digitale Transformation der Österreichischen Geisteswissenschaften" />
+    <meta name="keywords" content="Digital, Österreich, Hochschulen, Digitale Transformation der Österreichischen Geisteswissenschaften, Digital Humanities, Geisteswissenschaften, DiTAH" />
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="fonts/icomoon/style.css">
+    <link rel="stylesheet" href="fonts/feather/style.css">
+    <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+    <link rel="stylesheet" href="css/jquery.fancybox.min.css">
+    <link rel="stylesheet" href="css/aos.css">
+    <link rel="stylesheet" href="css/style.css">
+    <title>DiTAH - Projektbibliographie</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script>
+  </head>
+  <body>
+    <!--information overlay, loaded externally from infooverlay.html-->
+    <div id="infooverlay"></div>
+    <div class="site-mobile-menu site-navbar-target sticky-top">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close">
+          <span class="icofont-close js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div>
+    
+    <div class="container sticky-top">
+      
+      
+      <nav class="site-nav sticky-top" style="background-color: #ffffff !important;">
+        <div class="logo">
+          <a href="index.html" class="text-white"><img src="images/DiTAH_Logo_blau-01.svg" alt="Ditah Logo"/></a>
+          <!-- ditah logo onscroll change to black -->
+        </div>
+        
+        
+        <div class="row align-items-center">
+          
+          
+          <div class="col-12 col-sm-12 col-lg-12 site-navigation text-center">
+            <ul class="js-clone-nav d-none d-lg-inline-block text-left site-menu">
+              <li class="active"><a href="index.html">Home</a></li>
+              <li class="has-children">
+                <a href="#">Partner</a>
+                <ul class="dropdown">
+                  <li><a href="partner.html#ug" onclick="scrolldown(this)">Universität Graz (Lead)</a></li>
+                  <li><a href="partner.html#oaw" onclick="scrolldown(this)">Österreichische Akademie der Wissenschaften</a></li>
+                  <li><a href="partner.html#onb" onclick="scrolldown(this)">Österreichische Nationalbibliothek</a></li>
+                  <li><a href="partner.html#plus" onclick="scrolldown(this)">Paris Lodron Universität Salzburg</a></li>
+                  <li><a href="partner.html#uw" onclick="scrolldown(this)">Universität Wien</a></li>
+                  <li><a href="partner.html#ui" onclick="scrolldown(this)">Universität Innsbruck</a></li>
+                  <li class="has-children">
+                    <a href="#">CiMA Verbund</a>
+                    <ul class="dropdown">
+                      <li><a href="partner.html#abk" onclick="scrolldown(this)">Akademie der bildenden Künste</a></li>
+                      <li><a href="partner.html#oaw" onclick="scrolldown(this)">Österreichische Akademie der Wissenschaften</a></li>
+                      <li><a href="partner.html#tuw" onclick="scrolldown(this)">Technische Universität Wien</a></li>
+                      <li><a href="partner.html#krems" onclick="scrolldown(this)">Universität für Weiterbildung Krems</a></li>
+                      <li><a href="partner.html#uw" onclick="scrolldown(this)">Universität Wien</a></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+              
+              <li class="has-children">
+                <a href="#">Projekte</a>
+                <ul class="dropdown">
+                  <li class="has-children">
+                    <a href="#">Projekte A - F</a>
+                    <ul class="dropdown">
+                      <li><a href="cima.html"><b>CiMA</b>-Projekte</a></li>
+                      <li><a href="rnab.html">Datenverwaltung für <b>RNAB</b>-konforme Metadaten</a></li>
+                      <li><a href="derla.html"><b>DERLA</b> | Verfolgung und Widerstand im Nationalsozialismus – Dokumentieren und Vermitteln</a></li>
+                      <li><a href="dhlehregraz.html"><b>DH Lehre</b> an der Universität Graz</a></li>
+                      <li><a href="dhlehre.html"><b>DH Lehre</b> an der Universität Wien</a></li>
+                      <li><a href="dhplus.html"><b>DH an der PLUS</b></a></li>
+                      <li><a href="digi16.html"><b>Digi 16</b>: Druckwerke des 16. Jahrhunderts</a></li>
+                      <li><a href="fercan.html">Die keltischen Götternamen in den germanischen Provinzen <b>FERCAN</b> / Patrimonium</a></li>
+                      <li><a href="eosc.html"><b>EOSC</b></a></li>
+                      <li><a href="ficker.html">Ludwig von <b>Ficker</b> Edition</a></li>
+                      <li><a href="fotodatenbank.html"><b>Foto-Datenbank</b></a></li>
+                      
+                    </ul>
+                  <li class="has-children">
+                    <a href="#">Projekte G - V</a>
+                    <ul class="dropdown">
+                      <li><a href="gipse.html">Virtuelles Museum (<b>GIPSE</b>)</a></li>
+                      <li><a href="habsburg.html">Digital <b>Habsburg</b> Platform</a></li>
+                      <li><a href="holzmeister.html">Digitales Werkverzeichnis Clemens <b>Holzmeister</b></a></li>
+                      <li><a href="hps.html"><b>Historisch-physikalische Sammlung</b></a></li>
+                      <li><a href="pipelines.html"><b>Hybrid Pipelines</b></a></li>
+                      <li><a href="m3r.html"><b>M3R</b> Multimodale Repräsentation & Analyse von Manuskripten</a></li>
+                      <li><a href="phaidra.html"><b>mūsēum</b> (Phaidra)</a></li> 
+                      <li><a href="onbkulturerbe.html"><b>ÖNB</b> Nutzerzentrierte Zugänge zum digitalen österreichischen Kulturerbe</a></li> 
+                      <li><a href="training.html"><b>Training</b> am ACDH-CH (ÖAW)</a></li>
+                      <li><a href="repository.html"><b>Repository-Discovery</b></a></li>
+                      
+                    </ul>
+                  </li>
+                  
+                  
+                  
+                  
+                </ul>
+              </li>
+              <li class="active"><a href="index.html#about" onclick="scrolldown(this)">About</a></li>
+              
+            </ul>
+            
+            <a href="#" class="burger light ml-auto site-menu-toggle js-menu-toggle d-block d-lg-none" data-toggle="collapse" data-target="#main-navbar">
+              <span></span>
+            </a>
+            
+          </div>
+          
+        </div>  
+      </nav> 
+      <!-- END nav -->
+    </div>
+    
+    <div class="site-section-search row" id="searchboxdown">
+      <div class="col-lg-9 col-sm-6 col-md-8"> </div>
+      <div class=" col-lg-3 col-sm-6 col-md-4 float-right input-group mb-2 mt-5">
+        <input type="text" id="searchBox" class="form-control-sm"
+          placeholder="Suchbegriff eingeben..." aria-label="Search"
+          style="border-color: #004567 !important; border: solid 0.5px; border-radius: 3px;">
+        <button class="btn-sm btn-outline-secondarysub" type="button"
+          style="background-color: #ffffff !important; border-color: #004567 !important; border: solid 0.5px;" onclick="search()"
+          >Suche</button>
+      </div>
+    </div>
+    <!-- END container end nav-->
+    
+    <!-- Modal for search bar, opens when search button is clicked-->
+    <div class="modal fade" id="resultsModal" tabindex="-1" aria-labelledby="resultsModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="resultsModalLabel">Suchergebnisse</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body" id="results"></div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal" style="background-color: #004567">Schließen</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="site-section site-cover-2" style="margin-top: 7em; background-image: url('images/hero-min.jpg')">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-7 mx-auto text-center">
+            <h2 class="text-white mb-4">Projektbibliographie
+            </h2>
+           </div>
+        </div>
+      </div>
+    </div>
+   
+    <div class="site-section" id="portfolio-section">
+      <div class="container">
+        <div style="line-height: 1.35; ">
+<ul>            <li style="margin-bottom: 1em;"><i>ACDH-CH Tool Galleries</i> (2015).
+                Available at: <a
+                    href="https://www.oeaw.ac.at/de/acdh/newsevents/event-reihen/acdh-ch-tool-galleries"
+                    >https://www.oeaw.ac.at/de/acdh/newsevents/event-reihen/acdh-ch-tool-galleries</a>.</li>
+            <li style="margin-bottom: 1em;"><i>Annolyzer</i> (2022) <i>ONB
+                    Labs</i>. Available at: <a href="https://labs.onb.ac.at/en/topic/annolyzer/"
+                    >https://labs.onb.ac.at/en/topic/annolyzer/</a>.</li>
+            <li style="margin-bottom: 1em;">Antenhofer, C., Kühberger, C. and
+                Strohmeyer, A. (eds) (2023) <i>Digital Humanities in den
+                    Geschichtswissenschaften</i>. 1st edn. Stuttgart, Deutschland: utb GmbH.
+                Available at: <a href="https://doi.org/10.36198/9783838561165"
+                    >https://doi.org/10.36198/9783838561165</a>.</li>
+            <li style="margin-bottom: 1em;">Austrian Centre for Digital
+                Humanities and Cultural Heritage (2024) ‘VELD: Versioned Executable Logic and Data,
+                a design pattern for reproducible and flexible workflows’. Available at: <a
+                    href="https://doi.org/10.5281/ZENODO.13318651"
+                    >https://doi.org/10.5281/ZENODO.13318651</a>.</li>
+            <li style="margin-bottom: 1em;">Baille, J. (2024) <i>An Introduction
+                    to Prosopography. Version 1.0.0.</i>, <i>DARIAH Campus</i>. Available at: <a
+                    href="https://hdl.handle.net/21.11159/019595c5-0e40-74ce-b9a8-1226d939b770"
+                    >https://hdl.handle.net/21.11159/019595c5-0e40-74ce-b9a8-1226d939b770</a>.</li>
+            <li style="margin-bottom: 1em;">Beek, A. van (2024) ‘Mit neuen
+                Methoden alte Texte erkunden: Proseminar “Mittelalter Digital”’. Available at: <a
+                    href="https://doi.org/10.58079/12778">https://doi.org/10.58079/12778</a>.</li>
+            <li style="margin-bottom: 1em;">Bergner, U. (2024) <i>Digi 16 -
+                    Druckwerke des 16. Jahrhunderts</i>. Graz: Universitätsbibliothek Graz,
+                Abteilung für Sondersammlungen. Available at: <a
+                    href="https://unipub.uni-graz.at/obvugrcinque"
+                    >https://unipub.uni-graz.at/obvugrcinque</a>.</li>
+            <li style="margin-bottom: 1em;">Bergner, U. and Podrepsek, T. (2024a)
+                ‘Exemplarspezifika für das 16. Jahrhundert’. Universitätsbibliothek Graz. Available
+                at: <a
+                    href="https://static.uni-graz.at/fileadmin/_files/_ub/sosa/pdf/uni-graz-ub-sondersammlungen-04.pdf"
+                    >https://static.uni-graz.at/fileadmin/_files/_ub/sosa/pdf/uni-graz-ub-sondersammlungen-04.pdf</a>.</li>
+            <li style="margin-bottom: 1em;">Bergner, U. and Podrepsek, T. (2024b)
+                ‘Kategorienschema für das 16. Jahrhundert’. Universitätsbibliothek Graz. Available
+                at: <a
+                    href="https://static.uni-graz.at/fileadmin/_files/_ub/sosa/pdf/uni-graz-ub-sondersammlungen-05.pdf"
+                    >https://static.uni-graz.at/fileadmin/_files/_ub/sosa/pdf/uni-graz-ub-sondersammlungen-05.pdf</a>.</li>
+            <li style="margin-bottom: 1em;">‘Bibliotheca Eugeniana’ (2021).
+                Available at: <a
+                    href="https://labs.onb.ac.at/gitlab/labs-team/classifying-eugeniana"
+                    >https://labs.onb.ac.at/gitlab/labs-team/classifying-eugeniana</a>.</li>
+            <li style="margin-bottom: 1em;">Brenner, S. (2020a) ‘Centre of Image
+                and Material Analysis in Cultural Heritage (CIMA)’. <i>presented at the European
+                    Researcher’s Night 2020</i>, Wien. Available at: <a
+                    href="http://hdl.handle.net/20.500.12708/87095"
+                    >http://hdl.handle.net/20.500.12708/87095</a>.</li>
+            <li style="margin-bottom: 1em;">Brenner, S. (2020b) ‘Multi-Modal
+                Manuscript Representations - A Resource for Science and Education’. <i>presented at
+                    the Data Linking Study Day</i>, Universität Hamburg. Available at: <a
+                    href="http://hdl.handle.net/20.500.12708/87096"
+                    >http://hdl.handle.net/20.500.12708/87096</a>.</li>
+            <li style="margin-bottom: 1em;">Brenner, S. <i>et al.</i> (2021)
+                ‘Interdisciplinary Analyses of the Codex Marianus, Vienna Part (Cod. Vind. slav.
+                146)’, in <i>Proceedings of the Intern. Conference El’Manuscript 2021. Textual
+                    Heritage and Information Technologies, 12. – 15.04.2021</i>. Sofia: Gutenberg
+                (Scripta and E-Scripta, 21), pp. 25–42. Available at: <a
+                    href="https://repositum.tuwien.at/handle/20.500.12708/138781"
+                    >https://repositum.tuwien.at/handle/20.500.12708/138781</a>.</li>
+            <li style="margin-bottom: 1em;">Brenner, S. (2023a) ‘A Repository for
+                Storage, Linking and Dissemination of Multidisciplinary Manuscript Research Data’.
+                    <i>presented at the TECHNART 2023</i>, Lissabon, 8 May. Available at: <a
+                    href="http://hdl.handle.net/20.500.12708/190068"
+                    >http://hdl.handle.net/20.500.12708/190068</a>.</li>
+            <li style="margin-bottom: 1em;">Brenner, S. (2023b) ‘Hyperlyse –
+                Hyperspectral Image Analysis Tool’. Available at: <a
+                    href="https://github.com/ditah-at/hyperlyse"
+                    >https://github.com/ditah-at/hyperlyse</a>.</li>
+            <li style="margin-bottom: 1em;">Brenner, S. (2024) <i>Multi-Light
+                    Imaging for Graphical Heritage</i> [application/pdf]. TU Wien. Available at: <a
+                    href="https://doi.org/10.34726/HSS.2024.122403"
+                    >https://doi.org/10.34726/HSS.2024.122403</a>.</li>
+            <li style="margin-bottom: 1em;">Brenner, S. and Sablatnig, R. (2021)
+                ‘Subjective Assessments of Legibility in Ancient Manuscript Images - The SALAMI
+                Dataset’, in A. Del Bimbo et al. (eds) <i>Pattern Recognition. ICPR International
+                    Workshops and Challenges</i>. Cham: Springer International Publishing (Lecture
+                Notes in Computer Science), pp. 68–82. Available at: <a
+                    href="https://doi.org/10.1007/978-3-030-68787-8_5"
+                    >https://doi.org/10.1007/978-3-030-68787-8_5</a>.</li>
+            <li style="margin-bottom: 1em;">Brenner, S., Schügerl, L. and
+                Sablatnig, R. (2021) ‘Estimating Human Legibility in Historic Manuscript Images - A
+                Baseline’, in J. Lladós, D. Lopresti, and S. Uchida (eds) <i>Document Analysis and
+                    Recognition – ICDAR 2021</i>. Cham: Springer International Publishing (Lecture
+                Notes in Computer Science), pp. 492–506. Available at: <a
+                    href="https://doi.org/10.1007/978-3-030-86334-0_32"
+                    >https://doi.org/10.1007/978-3-030-86334-0_32</a>.</li>
+            <li style="margin-bottom: 1em;">Brocca, N. and Wang-Kathrein, J.
+                (2024) ‘LadderWeb: An AI-based assistant for the pragmatic annotation of
+                cancellations and requests’. Forschungszentrum Digital Humanities, Innsbruck, 21
+                March.</li>
+            <li style="margin-bottom: 1em;">Bucar, A. (2024) ‘Erfahrungsbericht
+                zum Seminar “Mittelalter Digital” im Sommersemester 2024 - Interviews mit den
+                Teilnehmenden’. Available at: <a href="https://doi.org/10.58079/12B2V"
+                    >https://doi.org/10.58079/12B2V</a>.</li>
+            <li style="margin-bottom: 1em;">Cappa, F. <i>et al.</i> (2022a) ‘The
+                Kiev Folia: An interdisciplinary approach to unravelling the past of an ancient
+                Slavonic manuscript’, <i>International Biodeterioration &amp; Biodegradation</i>,
+                167, p. 105342. Available at: <a href="https://doi.org/10.1016/j.ibiod.2021.105342"
+                    >https://doi.org/10.1016/j.ibiod.2021.105342</a>.</li>
+            <li style="margin-bottom: 1em;">Cappa, F. <i>et al.</i> (2022b) ‘The
+                Kiev Folia: An interdisciplinary approach to unravelling the past of an ancient
+                Slavonic manuscript’, <i>International Biodeterioration &amp; Biodegradation</i>,
+                167, p. 105342. Available at: <a href="https://doi.org/10.1016/j.ibiod.2021.105342"
+                    >https://doi.org/10.1016/j.ibiod.2021.105342</a>.</li>
+            <li style="margin-bottom: 1em;">Carloni, M. <i>et al.</i> (2023)
+                ‘Exploring the OpenAIRE Research Graph – first insights’. Available at: <a
+                    href="https://doi.org/10.5281/ZENODO.12783384"
+                    >https://doi.org/10.5281/ZENODO.12783384</a>.</li>
+            <li style="margin-bottom: 1em;">Clausen, H. (ed.) (2024) <i>M3R –
+                    Multimodal Manuscript Representation</i>. Available at: <a
+                    href="https://gams.uni-graz.at/context:mmmr"
+                    >https://gams.uni-graz.at/context:mmmr</a>.</li>
+            <li style="margin-bottom: 1em;"><i>Colorized Postcards</i> (2022)
+                    <i>ONB Labs</i>. Available at: <a
+                    href="https://labs.onb.ac.at/en/topic/akon-color/"
+                    >https://labs.onb.ac.at/en/topic/akon-color/</a>.</li>
+            <li style="margin-bottom: 1em;"><i>Dazzling Data. Digital Humanities
+                    in der Mediävistik und Frühneuzeitforschung</i> (2023). Available at: <a
+                    href="https://unitv.org/beitrag.asp?ID=1161"
+                    >https://unitv.org/beitrag.asp?ID=1161</a>.</li>
+            <li style="margin-bottom: 1em;"><i>Digital Humanities an der PLUS
+                    Salzburg</i> (2023) <i>Digital Humanities an der PLUS Salzburg</i>. Available
+                at: <a href="https://dhsalzburg.hypotheses.org/"
+                    >https://dhsalzburg.hypotheses.org/</a>.</li>
+            <li style="margin-bottom: 1em;">Dornstauder, A. (2024)
+                ‘Handschriftendatenbanken: Arbeit an mittelalterlichen Manuskripten leicht gemacht’.
+                Available at: <a href="https://doi.org/10.58079/12AJG"
+                    >https://doi.org/10.58079/12AJG</a>.</li>
+            <li style="margin-bottom: 1em;">Durco, M. (2023) <i>DiTAH - EOSC
+                    Update 2023-10 (internal report)</i>. Zenodo. Available at: <a
+                    href="https://doi.org/10.5281/ZENODO.12820414"
+                    >https://doi.org/10.5281/ZENODO.12820414</a>.</li>
+            <li style="margin-bottom: 1em;">Ehrl, H. and Engel, P. (2021) ‘A
+                system in which the old covers shall be documented and preserved: A contribution to
+                the history of book restoration in Austria - Eleonore Klee’, <i>Conservation
+                    Update</i>, 1/2021, pp. 10–35. Available at: <a
+                    href="https://doi.org/10.48341/08S1-K967"
+                >https://doi.org/10.48341/08S1-K967</a>.</li>
+            <li style="margin-bottom: 1em;">Ehrl, H., Engel, P. and Schuster, P.
+                (2021) ‘Knot-tack Sewing / Knotenheftung – Its Possible Origin and Identification in
+                Today’s Upper Austria’, <i>Journal of Paper Conservation</i>, 22(1–4), pp. 70–80.
+                Available at: <a href="https://doi.org/10.1080/18680860.2021.2014242"
+                    >https://doi.org/10.1080/18680860.2021.2014242</a>.</li>
+            <li style="margin-bottom: 1em;"><i>Einführung Information Retrieval /
+                    Tag 1</i> (2021). Available at: <a
+                    href="https://www.youtube.com/watch?v=VDqoYvy9oWU"
+                    >https://www.youtube.com/watch?v=VDqoYvy9oWU</a>.</li>
+            <li style="margin-bottom: 1em;"><i>Einführung Information Retrieval /
+                    Tag 2</i> (2021). Available at: <a
+                    href="https://www.youtube.com/watch?v=Gy4wPX9MMmw"
+                    >https://www.youtube.com/watch?v=Gy4wPX9MMmw</a>.</li>
+            <li style="margin-bottom: 1em;">Ender, M. (2021) ‘Kommentierte
+                Online-Edition des Gesamtbriefwechsels Ludwig von Ficker’, in H. Klug (ed.) <i>KONDE
+                    Weißbuch</i>. (HRSM Projekt »Kompetenznetzwerk Digitale Edition«). Available at:
+                    <a href="https://gams.uni-graz.at/o:konde.p11"
+                    >https://gams.uni-graz.at/o:konde.p11</a> (Accessed: 5 February 2025).</li>
+            <li style="margin-bottom: 1em;">Ender, M. <i>et al.</i> (2021)
+                ‘Posterpräsentation. Digitales Kuratieren’. <i>Sammlungstagung 2021</i>,
+                Philipps-Universität Marburg, September.</li>
+            <li style="margin-bottom: 1em;">Ender, M. (2023a) ‘“Ein Winterabend”.
+                Bemerkungen zu einem Kommentar im Gesamtbriefwechsel Ludwig von Fickers’.
+                    <i>Workshop Kommentar und Kommentarpraxis in digitalen Editionen</i>,
+                Universität Innsbruck, November.</li>
+            <li style="margin-bottom: 1em;">Ender, M. (2023b) ‘Kommentierte
+                Online-Edition des Gesamtbriefwechsels Ludwig von Ficker’, in R. Bleier and H. Klug
+                (eds) <i>Digitale Edition in Österreich</i>. Berlin: Institut für Dokumentologie und
+                Editorik e. V. (IDE) (Schriften des Instituts für Dokumentologie und Editorik, 16),
+                pp. 173–174. Available at: <a href="https://doi.org/urn:nbn:de:hbz:38-704617"
+                    >urn:nbn:de:hbz:38-704617</a>.</li>
+            <li style="margin-bottom: 1em;">Ender, M. <i>et al.</i> (eds) (2023)
+                    <i>Mitteilungen aus dem Brenner-Archiv</i>. Innsbruck: innsbruck university
+                press (Dossier Original – Kopie). Available at: <a
+                    href="https://www.uibk.ac.at/iup/buch_pdfs/10.15203-1027-5649-4223.pdf"
+                    >https://www.uibk.ac.at/iup/buch_pdfs/10.15203-1027-5649-4223.pdf</a>.</li>
+            <li style="margin-bottom: 1em;">Ender, M. (2023c) ‘Wenn Kopien zu
+                ›Originalen‹ werden. Zur transitorischen Phänomenologie von kopierten Briefen im
+                Archivkontext’, in M. Ender et al. (eds) <i>Mitteilungen aus dem Brenner-Archiv</i>.
+                Innsbruck: innsbruck university press, pp. 99–109. Available at: <a
+                    href="https://www.uibk.ac.at/iup/buch_pdfs/10.15203-1027-5649-4223.pdf"
+                    >https://www.uibk.ac.at/iup/buch_pdfs/10.15203-1027-5649-4223.pdf</a>.</li>
+            <li style="margin-bottom: 1em;">Ender, M. <i>et al.</i> (eds) (2025)
+                    <i>Ludwig von Ficker: Gesamtbriefwechsel. Kommentierte Online-Edition</i>.
+                Innsbruck: Brenner-Archiv der Universität Innsbruck. Available at: <a
+                    href="https://www.ficker-gesamtbriefwechsel.net"
+                    >https://www.ficker-gesamtbriefwechsel.net</a>.</li>
+            <li style="margin-bottom: 1em;">Ender, M. and Wang-Kathrein, J.
+                (2023) ‘Experience with Workflow using MS Word and a DOCX to TEI Converter’, in R.
+                Bleier and H. Klug (eds) <i>Digitale Edition in Österreich</i>. Berlin: Institut für
+                Dokumentologie und Editorik e. V. (IDE) (Schriften des Instituts für Dokumentologie
+                und Editorik, 16), pp. 57–69. Available at: <a
+                    href="https://doi.org/urn:nbn:de:hbz:38-704483"
+                >urn:nbn:de:hbz:38-704483</a>.</li>
+            <li style="margin-bottom: 1em;">Ender, M. and Wang-Kathrein, J.
+                (2024) ‘AI-Tools for Transcription Processes and Education’. <i>(Meta-)Data
+                    orchestration: connecting manuscript collections for innovating research –
+                    ›Berlinka‹ in action</i>, Jagiellonen-Universität Krakau, November.</li>
+            <li style="margin-bottom: 1em;">Engel, P. (2021a) ‘Autoptical
+                Observations on the Codicology of the Hankenstein-Codex or Vienna Oktoich (Vind.
+                slav. 37) in the Austrian National Library’, in L. Hnatenko (ed.) <i>Videns‘kyj
+                    Oktojich. Doslidžennja. Meždunarodna kollektyvna monografija. / Viennese
+                    Oktoechos. Codex Vindobonensis Slavicus 37</i>. Kyjiv-Viden: Horobec
+                (Researches. International collective monograph), pp. 60-90., 91–103.</li>
+            <li style="margin-bottom: 1em;">Engel, P. (2021b) ‘Deletions in
+                Manuscripts and Conservators´ Decision-Making Depicted in SKOS’, <i>Conservation
+                    Update</i>, 02/2021, pp. 25–49. Available at: <a
+                    href="https://doi.org/10.48341/RVA1-5G91"
+                >https://doi.org/10.48341/RVA1-5G91</a>.</li>
+            <li style="margin-bottom: 1em;">Engel, P. (2024a) ‘Beschreibung der
+                Handschriften, ihrer Materialität und ihrer Beschädigungen sowie Zuordnung der
+                Artefakten zu bestimmten digital erzeugten Erscheinungen’. Available at: <a
+                    href="https://doi.org/10.5281/ZENODO.12755779"
+                    >https://doi.org/10.5281/ZENODO.12755779</a>.</li>
+            <li style="margin-bottom: 1em;">Engel, P. (2024b) ‘Prototypisch
+                erschlossene Datenbestände sowie Metadaten’. Available at: <a
+                    href="https://doi.org/10.5281/ZENODO.12755811"
+                    >https://doi.org/10.5281/ZENODO.12755811</a>.</li>
+            <li style="margin-bottom: 1em;">Engel, P. (2024c) ‘Schriftliche
+                Beschreibung, der für die Konservierung relevanten Daten’. Available at: <a
+                    href="https://doi.org/10.5281/ZENODO.12755680"
+                    >https://doi.org/10.5281/ZENODO.12755680</a>.</li>
+            <li style="margin-bottom: 1em;">Engel, P. (2025) ‘Identifying
+                “Fingerprints” of Old Conservation Treatment in Written Heritage - New Challenges
+                and Perspectives [in print]’, <i>Horn</i>, pp. 437–448.</li>
+            <li style="margin-bottom: 1em;"><i>Esperanto Newspaper Excerpts</i>
+                (2024) <i>ÖNB Labs</i>. Available at: <a
+                    href="https://labs.onb.ac.at/en/topic/esperanto-excerpts/"
+                    >https://labs.onb.ac.at/en/topic/esperanto-excerpts/</a>.</li>
+            <li style="margin-bottom: 1em;">Färberböck, P. and Nicka, I. (2024)
+                ‘Alle Wege führen zu LLMs? Die RDF-Datenmodellierung am IMAREAL und die Zukunft’.
+                Available at: <a href="https://doi.org/10.58079/12VC2"
+                    >https://doi.org/10.58079/12VC2</a>.</li>
+            <li style="margin-bottom: 1em;">Forschungsinstitut Brenner-Archiv
+                (2021a) ‘Textverarbeitung mit Python, online’. Innsbruck, May.</li>
+            <li style="margin-bottom: 1em;">Forschungsinstitut Brenner-Archiv
+                (2021b) ‘Workshop: Digital Technologies and Responsibilities. Research Projects on
+                the interface of academia &amp; public (Meran), online’. Innsbruck, 10
+                December.</li>
+            <li style="margin-bottom: 1em;">Forschungsinstitut Brenner-Archiv
+                (2021c) ‘Workshop: Introduction to Process Mining, online’. Innsbruck, June.</li>
+            <li style="margin-bottom: 1em;">Forschungsinstitut Brenner-Archiv
+                (2021d) ‘Workshop: Programming and software development in Python, online’.
+                Innsbruck, 10 December.</li>
+            <li style="margin-bottom: 1em;">Forschungsinstitut Brenner-Archiv
+                (2023) ‘Workshop: Kommentar und Kommentarpraxis in digitalen Editionen’. Innsbruck,
+                November.</li>
+            <li style="margin-bottom: 1em;">Galka, S. and Schiller-Stoff, S.D.
+                (2024) ‘GAMS, DERLA und Data Science.&nbsp; Experimentelle Datenanalyse der
+                langzeitarchivierten Forschungsdaten’, in <i>Erinnerungskultur und Holocaust
+                    Education im digitalen Wandel. Georeferenzierte Dokumentations-, Erinnerungs-
+                    und Vermittlungsprojekte</i>. transcript, pp. 191–210. Available at: <a
+                    href="https://www.transcript-verlag.de/chunk_detail_seite.php?doi=10.14361%2F9783839464151-013"
+                    >https://www.transcript-verlag.de/chunk_detail_seite.php?doi=10.14361%2F9783839464151-013</a>.</li>
+            <li style="margin-bottom: 1em;">Genatowski, E. (2023) <i>Ethical,
+                    Societal and Legal Complexities of Artificial Intelligence. Version 1.0.0.</i>,
+                    <i>DARIAH Campus</i>. Available at: <a
+                    href="https://hdl.handle.net/21.11159/019595c5-1704-71dd-8533-6c3f43e0fcba"
+                    >https://hdl.handle.net/21.11159/019595c5-1704-71dd-8533-6c3f43e0fcba</a>.</li>
+            <li style="margin-bottom: 1em;">Genatowski, E. (2024) <i>Introduction
+                    to Artificial Intelligence Prompt Engineering. Version 1.0.0.</i>, <i>DARIAH
+                    Campus</i>. Available at: <a
+                    href="https://hdl.handle.net/21.11159/019595c5-1b62-7396-bb7f-221d7c36a363"
+                    >https://hdl.handle.net/21.11159/019595c5-1b62-7396-bb7f-221d7c36a363</a>.</li>
+            <li style="margin-bottom: 1em;">Genatowski, E. and Baille, J. (2024a)
+                    <i>Data and Databases: An Introduction. Version 1.0.0.</i>, <i>DARIAH
+                Campus</i>. Available at: <a
+                    href="https://hdl.handle.net/21.11159/019595c5-142c-70d5-9f86-081edcbac4b0"
+                    >https://hdl.handle.net/21.11159/019595c5-142c-70d5-9f86-081edcbac4b0</a>.</li>
+            <li style="margin-bottom: 1em;">Genatowski, E. and Baille, J. (2024b)
+                    <i>Data and Databases: Entities and Relationships. Version 1.0.0.</i>, <i>DARIAH
+                    Campus</i>. Available at: <a
+                    href="https://hdl.handle.net/21.11159/019595c5-148b-7010-a3eb-70d31a97d784"
+                    >https://hdl.handle.net/21.11159/019595c5-148b-7010-a3eb-70d31a97d784</a>.</li>
+            <li style="margin-bottom: 1em;">Genatowski, E. and Baille, J. (2025a)
+                    <i>Data and Databases: Data Management and Storage. Version 1.0.0.</i>,
+                    <i>DARIAH Campus</i>. Available at: <a
+                    href="https://hdl.handle.net/21.11159/019595c5-145b-70bf-bb07-bc71500403ad"
+                    >https://hdl.handle.net/21.11159/019595c5-145b-70bf-bb07-bc71500403ad</a>.</li>
+            <li style="margin-bottom: 1em;">Genatowski, E. and Baille, J. (2025b)
+                    <i>Data and Databases: From Source to Data. Version 1.0.0.</i>, <i>DARIAH
+                    Campus</i>. Available at: <a
+                    href="https://hdl.handle.net/21.11159/019595c5-14b7-750b-833b-cc9b9d1a8987"
+                    >https://hdl.handle.net/21.11159/019595c5-14b7-750b-833b-cc9b9d1a8987</a>.</li>
+            <li style="margin-bottom: 1em;">Genatowski, E. and Baille, J. (2025c)
+                    <i>Data and Databases: Scoping a Database. Version 1.0.0.</i>, <i>DARIAH
+                    Campus</i>. Available at: <a
+                    href="https://hdl.handle.net/21.11159/019595c5-14eb-74be-9d2d-5cfb249a2472"
+                    >https://hdl.handle.net/21.11159/019595c5-14eb-74be-9d2d-5cfb249a2472</a>.</li>
+            <li style="margin-bottom: 1em;">Genatowski, E. and Downs-Tepper, L.
+                (2024) <i>A Basic Introduction to Geographic Information Systems (GIS). Version
+                    1.0.0.</i>, <i>DARIAH Campus</i>. Available at: <a
+                    href="https://hdl.handle.net/21.11159/019595b2-ce5f-7090-a284-00fa71249aeb"
+                    >https://hdl.handle.net/21.11159/019595b2-ce5f-7090-a284-00fa71249aeb</a>.</li>
+            <li style="margin-bottom: 1em;">Gratz, M. (2024) ‘Nachhaltigkeit bei
+                Forschungsdaten’. Available at: <a href="https://doi.org/10.58079/1285Q"
+                    >https://doi.org/10.58079/1285Q</a>.</li>
+            <li style="margin-bottom: 1em;">Grundner, S. (2024) ‘Die
+                CLARIAH-AT-Roadshow: 12 Projekte haben sich vorgestellt’. Available at: <a
+                    href="https://doi.org/10.58079/12YOL">https://doi.org/10.58079/12YOL</a>.</li>
+            <li style="margin-bottom: 1em;">Heiles, M. and Zeppezauer-Wachauer,
+                K. (2023) ‘Poster: MHDBDB-Textreihentypologie. Ein kontrolliertes SKOS-Vokabular zur
+                Annotation mediävistischer Datenbestände’. Available at: <a
+                    href="https://doi.org/10.25592/UHHFDM.13381"
+                    >https://doi.org/10.25592/UHHFDM.13381</a>.</li>
+            <li style="margin-bottom: 1em;">Hintersteiner, J. <i>et al.</i>
+                (2024) ‘Von der Datenpflege zur Schnittstellenentwicklung: Eine Evaluation des
+                Datenkolosses MHDBDB’. Available at: <a href="https://doi.org/10.58079/12P9N"
+                    >https://doi.org/10.58079/12P9N</a>.</li>
+            <li style="margin-bottom: 1em;">Hofer, K. <i>et al.</i> (2024)
+                ‘Analysenbericht an Objekten im Augustiner-Chorherren-Stift in Klosterneuburg:
+                Kardinalsammelindulgenz (OLIVERIUS), Hausmanstetter-Urbar (Stifterbildnis und
+                fol.14v ), Sunthaym-Tafel I und II’. Available at: <a
+                    href="https://doi.org/10.5281/ZENODO.13254950"
+                    >https://doi.org/10.5281/ZENODO.13254950</a>.</li>
+            <li style="margin-bottom: 1em;">Hofer, K., Vetter, W. and Schreiner,
+                M. (2024a) ‘Analysenbericht an der Urkunde mit der Inv.Nr. 1494 XI 11 im
+                Diözesanarchiv St. Pölten’. Available at: <a
+                    href="https://doi.org/10.5281/ZENODO.13254879"
+                    >https://doi.org/10.5281/ZENODO.13254879</a>.</li>
+            <li style="margin-bottom: 1em;">Hofer, K., Vetter, W. and Schreiner,
+                M. (2024b) ‘Analysenbericht an Urkunden aus der Zeit Kaiser Maximilian I: 1508
+                August 20, 1508 August 21 und 1508 August 99 (Schloss Tratzberg)’. Available at: <a
+                    href="https://doi.org/10.5281/ZENODO.13254940"
+                    >https://doi.org/10.5281/ZENODO.13254940</a>.</li>
+            <li style="margin-bottom: 1em;"><i>HowTo Plattform</i> (no date).
+                Available at: <a href="https://howto.acdh.oeaw.ac.at/en"
+                    >https://howto.acdh.oeaw.ac.at/en</a>.</li>
+            <li style="margin-bottom: 1em;"><i>Introduction to Process Mining</i>
+                (2021). Available at: <a href="https://www.youtube.com/watch?v=Pftr881XNms"
+                    >https://www.youtube.com/watch?v=Pftr881XNms</a>.</li>
+            <li style="margin-bottom: 1em;">Kammel, A. (2024) ‘Der Lexer: Das
+                Online-Wörterbuch im Trierer Wörterbuchnetz vs. Printausgabe’. Available at: <a
+                    href="https://doi.org/10.58079/1294D">https://doi.org/10.58079/1294D</a>.</li>
+            <li style="margin-bottom: 1em;">Kumpitsch, W. <i>et al.</i> (2024)
+                    <i>Workflow to work with the PATRIMONIVM-Editor</i>, <i>Social Scienes and
+                    Humanities Open Marketplace</i>. Available at: <a
+                    href="https://marketplace.sshopencloud.eu/workflow/7WM4St"
+                    >https://marketplace.sshopencloud.eu/workflow/7WM4St</a>.</li>
+            <li style="margin-bottom: 1em;">Kumpitsch, W. and Pollin, C. (2024)
+                    <i>Customizing the PATRIMONIVM-Editor</i>, <i>Social Scienes and Humanities Open
+                    Marketplace</i>. Available at: <a
+                    href="https://marketplace.sshopencloud.eu/workflow/OBON1y"
+                    >https://marketplace.sshopencloud.eu/workflow/OBON1y</a>.</li>
+            <li style="margin-bottom: 1em;">Kurz, S. and Wallnig, T. (2021)
+                    <i>Digital Habsburg Platform [Website / Workshop documentation]</i>, <i>Digital
+                    Habsburg Platform</i>. Available at: <a
+                    href="https://digitalhabsburgplatform.github.io/web/"
+                    >https://digitalhabsburgplatform.github.io/web/</a>.</li>
+            <li style="margin-bottom: 1em;">Kurz, S. and Wallnig, T. (2025)
+                    <i>Clio-Guide Österreich</i>, <i>Clio-Guide Österreich</i>. Available at: <a
+                    href="https://guides.clio-online.de">https://guides.clio-online.de</a>.</li>
+            <li style="margin-bottom: 1em;">Lamprecht, G. (ed.) (2019) <i>DERLA -
+                    Digitale Erinnerungslandschaft</i>. Graz: Centrum für Jüdische Studien.
+                Available at: <a href="https://gams.uni-graz.at/derla"
+                    >https://gams.uni-graz.at/derla</a>.</li>
+            <li style="margin-bottom: 1em;">Lamprecht, G. (2021) ‘„Alle
+                Geschichte hat einen Ort“. Digitale Erinnerungslandschaft Österreich (DERLA) -
+                Verfolgung und Widerstand im Nationalsozialismus | dokumentieren und vermitteln’, in
+                W. Dreier and F. Pingel (eds) <i>Nationalsozialismus und Holocaust. Materialien,
+                    Zeitzeugen und Orte der Erinnerung in der schulischen Bildung</i>.
+                Innsbruck-Wien: Studienverlag, pp. 179–192.</li>
+            <li style="margin-bottom: 1em;">Lamprecht, G. (2022) ‘Mapping Memory.
+                Die Digitale Erinnerungslandkarte DERLA als Beispiel für zeitgeschichtliches
+                Forschen/Sammeln/Lernen im virtuellen Raum’, in A. Oberdorf (ed.) <i>Digital Turn
+                    und Historische Bildungsforschung. Bestandsaufnahme und
+                    Forschungsperspektiven</i>. Bad Heilbrunn: Julius Klinkhardt, pp. 161–178.</li>
+            <li style="margin-bottom: 1em;">Lamprecht, G. (2023) ‘Die Digitale
+                Erinnerungslandschaft Österreich. Ein digitaler Erinnerungsort’, in R. Hufschmied et
+                al. (eds) <i>Erinnerungsorte weiter denken. IN Memoriam Heidemarie Uhl</i>. Wien:
+                Böhlau, pp. 361–371.</li>
+            <li style="margin-bottom: 1em;">Lamprecht, G. (2024) ‘Digital Memory
+                – Digital History – Digital Mapping. Transformationen von Erinnerungskulturen und
+                Holocaust-Education’, in <i>Erinnerungskultur und Holocaust Education im digitalen
+                    Wandel. Georeferenzierte Dokumentations-, Erinnerungs- und
+                    Vermittlungsprojekte</i>. Bielefeld: transcript, pp. 7–19. Available at: <a
+                    href="https://www.transcript-verlag.de/chunk_detail_seite.php?doi=10.14361%2F9783839464151-001"
+                    >https://www.transcript-verlag.de/chunk_detail_seite.php?doi=10.14361%2F9783839464151-001</a>.</li>
+            <li style="margin-bottom: 1em;">Lamprecht, G. <i>et al.</i> (eds)
+                (2024) <i>Erinnerungskultur und Holocaust Education im digitalen Wandel.
+                    Georeferenzierte Dokumentations-, Erinnerungs- und Vermittlungsprojekte</i>.
+                Bielefeld: transcript. Available at: <a
+                    href="https://www.transcript-verlag.de/978-3-8376-6415-7/erinnerungskultur-und-holocaust-education-im-digitalen-wandel/"
+                    >https://www.transcript-verlag.de/978-3-8376-6415-7/erinnerungskultur-und-holocaust-education-im-digitalen-wandel/</a>.</li>
+            <li style="margin-bottom: 1em;">Lobis, U. (2020) ‘Datenverwaltung und
+                Datenspeicherung am Forschungsinstitut Brenner-Archiv’. <i>AKKH goes Digital
+                    Humanities - Ein Asset Management System für Kirchliche Bibliotheken</i>, Linz,
+                19 February.</li>
+            <li style="margin-bottom: 1em;">Lobis, U. and Wang-Kathrein, J.
+                (2021a) ‘Data Mining’, in H. Klug (ed.) <i>KONDE Weißbuch</i>. (HRSM
+                Projekt »Kompetenznetzwerk Digitale Edition«). Available at: <a
+                    href="https://gams.uni-graz.at/o:konde.48"
+                    >https://gams.uni-graz.at/o:konde.48</a> (Accessed: 5 February 2025).</li>
+            <li style="margin-bottom: 1em;">Lobis, U. and Wang-Kathrein, J.
+                (2021b) ‘Forschungsinstitut Brenner-Archiv’, in H. Klug (ed.) <i>KONDE Weißbuch</i>.
+                (HRSM Projekt »Kompetenznetzwerk Digitale Edition«). Available at: <a
+                    href="https://gams.uni-graz.at/o:konde.38"
+                    >https://gams.uni-graz.at/o:konde.38</a> (Accessed: 5 February 2025).</li>
+            <li style="margin-bottom: 1em;">Lobis, U. and Wang-Kathrein, J.
+                (2021c) ‘Philosophische Edition’, in H. Klug (ed.) <i>KONDE Weißbuch</i>. (HRSM
+                Projekt »Kompetenznetzwerk Digitale Edition«). Available at: <a
+                    href="https://gams.uni-graz.at/o:konde.157"
+                    >https://gams.uni-graz.at/o:konde.157</a> (Accessed: 5 February 2025).</li>
+            <li style="margin-bottom: 1em;">Lobis, U. and Wang-Kathrein, J.
+                (2021d) ‘Universität Innsbruck’, in H. Klug (ed.) <i>KONDE Weißbuch</i>. (HRSM
+                Projekt »Kompetenznetzwerk Digitale Edition«). Available at: <a
+                    href="https://gams.uni-graz.at/o:konde.201"
+                    >https://gams.uni-graz.at/o:konde.201</a> (Accessed: 5 February 2025).</li>
+            <li style="margin-bottom: 1em;">Lobis, U. and Wang-Kathrein, J.
+                (2021e) ‘Versionierung’, in H. Klug (ed.) <i>KONDE Weißbuch</i>. (HRSM
+                Projekt »Kompetenznetzwerk Digitale Edition«). Available at: <a
+                    href="https://gams.uni-graz.at/o:konde.14"
+                    >https://gams.uni-graz.at/o:konde.14</a> (Accessed: 5 February 2025).</li>
+            <li style="margin-bottom: 1em;">Lobis, U. and Wang-Kathrein, J.
+                (2022) ‘Das digitale Original’. <i>Workshop »Original« – Die Archivalie im Zeitalter
+                    der multimedialen Repräsentierbarkeit</i>, Universität Innsbruck,
+                September.</li>
+            <li style="margin-bottom: 1em;">Lobis, U. and Wang-Kathrein, J.
+                (2023) ‘Künstliche Intelligenz: Chancen und Herausforderungen’. Universität
+                Innsbruck, Forschungsinstitut Brenner-Archiv, 4 May.</li>
+            <li style="margin-bottom: 1em;">Lobis, U. and Wang-Kathrein, J.
+                (2024a) ‘Künstliche Intelligenz: Chancen und Herausforderungen’. Katholisches
+                Bildungswerk Tirol, Innsbruck, 19 April.</li>
+            <li style="margin-bottom: 1em;">Lobis, U. and Wang-Kathrein, J.
+                (2024b) ‘Why No Digital File Is Unique’. <i>45. Internationale Wittgenstein
+                    Symposium 2024</i>, Kirchberg am Wechsel, 14 August.</li>
+            <li style="margin-bottom: 1em;"><i>Omeka S</i> (2025). Available at:
+                    <a href="https://omeka.org/s/">https://omeka.org/s/</a>.</li>
+            <li style="margin-bottom: 1em;"><i>Ottmar Zeiller. Digitaler
+                    Werkkatalog Kleinplastik.</i> (2025). Available at: <a
+                    href="https://zeiller2.literaturtirol.at/omekas/s/zeiller"
+                    >https://zeiller2.literaturtirol.at/omekas/s/zeiller</a>.</li>
+            <li style="margin-bottom: 1em;">Parchloo, P.H. (2024)
+                ‘Forschungsdatenmanagement “FDM”’. Available at: <a
+                    href="https://doi.org/10.58079/127B5">https://doi.org/10.58079/127B5</a>.</li>
+            <li style="margin-bottom: 1em;">‘Passetti Digital’ (no date).
+                Available at: <a href="https://labs.onb.ac.at/en/topic/pasetti-digital/"
+                    >https://labs.onb.ac.at/en/topic/pasetti-digital/</a>.</li>
+            <li style="margin-bottom: 1em;">Preining, C. (2021) ‘Archiv-Datenbank
+                NEU. Tirolensien Digital (online’. Innsbruck, 23 November.</li>
+            <li style="margin-bottom: 1em;">Preining, C. (2022) <i>Clemens
+                    Holzmeister: die fotografische Repräsentation seiner Werke</i>. Dissertation.
+                Universität Innsbruck.</li>
+            <li style="margin-bottom: 1em;">Preining, C. (2023) ‘Projekt zur
+                Erschließung der Arbeits- und Taschenkalender des Architekten Clemens Holzmeister
+                (Online)’. <i>ACDH-CH Forschungstag: Transkribus »Unlocking our written past«</i>,
+                Wien, 18 April.</li>
+            <li style="margin-bottom: 1em;">Preining, C. and Wang-Kathrein, J.
+                (2021) ‘Das Digitale Werkverzeichnis Clemens Holzmeisters’. Universität Innsbruck,
+                Archiv für Bau.Kunst.Geschichte, 28 May.</li>
+            <li style="margin-bottom: 1em;">Rabensteiner, S. (2024) ‘„ain roter
+                samater sesl mit vergŭltm beschlecht“. Bearbeitung historischer Quellen mit
+                Transkribus’. Available at: <a href="https://doi.org/10.58079/12U6L"
+                    >https://doi.org/10.58079/12U6L</a>.</li>
+            <li style="margin-bottom: 1em;">Rachbauer, L. (2024) ‘Das Potential
+                von Voyant - Beispielanalyse ganz ohne Coden’. Available at: <a
+                    href="https://doi.org/10.58079/127OI">https://doi.org/10.58079/127OI</a>.</li>
+            <li style="margin-bottom: 1em;"><i>Redesign Datasets</i> (2020)
+                    <i>ÖNB Labs</i>. Available at: <a href="https://labs.onb.ac.at/en/datasets/"
+                    >https://labs.onb.ac.at/en/datasets/</a>.</li>
+            <li style="margin-bottom: 1em;">Reisinger, N. (ed.) (2023)
+                    <i>Historisch-physikalische Sammlung Online</i>. Graz. Available at: <a
+                    href="https://gams.uni-graz.at/phs">https://gams.uni-graz.at/phs</a>.</li>
+            <li style="margin-bottom: 1em;"><i>Sammlungen Schrödinger / March /
+                    Braunizer</i> (2025). Available at: <a
+                    href="https://schroedinger.literaturtirol.at/omekas/s/nachlassliste"
+                    >https://schroedinger.literaturtirol.at/omekas/s/nachlassliste</a>.</li>
+            <li style="margin-bottom: 1em;">Simulevski, A. (2024) ‘Mūsēum [Tool
+                zum Archivieren von dynamischen Websites]’. Available at: <a
+                    href="https://github.com/Azer0s/museum/"
+                >https://github.com/Azer0s/museum/</a>.</li>
+            <li style="margin-bottom: 1em;">Singerton, J. <i>et al.</i> (2022)
+                ‘The Online-Edition of Maria Carolina’s Correspondence – An Approach to Digital
+                Humanities’. <i>Gender, Society, and Networks between 1750 and 1820. Maria Carolina
+                    of Naples-Sicily, a Prism of her Times?,</i> Innsbruck, 8 September.</li>
+            <li style="margin-bottom: 1em;">Spickermann, W. (ed.) (2024)
+                    <i>FERCAN – Die keltischen Götternamen der germanischen Provinzen</i>. Graz:
+                Institut für Antike, Universität Graz. Available at: <a
+                    href="https://gams.uni-graz.at/fercan"
+                >https://gams.uni-graz.at/fercan</a>.</li>
+            <li style="margin-bottom: 1em;">Tadic, T. (2024) ‘Ist die „Halbe
+                Birne“ wirklich von Konrad von Würzburg?’ Available at: <a
+                    href="https://doi.org/10.58079/129MG">https://doi.org/10.58079/129MG</a>.</li>
+            <li style="margin-bottom: 1em;"><i>Textverarbeitung mit Python</i>
+                (2021). Available at: <a href="https://www.youtube.com/watch?v=DV6z-dTQIHw"
+                    >https://www.youtube.com/watch?v=DV6z-dTQIHw</a>.</li>
+            <li style="margin-bottom: 1em;">Trinkl, E. and Zuanni, C. (2024)
+                    <i>Virtuelles Gipsmuseum</i>. Graz: Institut für Archäologie, Universität Graz.
+                Available at: <a href="https://gams.uni-graz.at/gipse"
+                    >https://gams.uni-graz.at/gipse</a>.</li>
+            <li style="margin-bottom: 1em;">Van Beek, A.L. and
+                Zeppezauer-Wachauer, K. (2023) ‘Mittelhochdeutsche Begriffsdatenbank 2023’.
+                Available at: <a href="https://doi.org/10.5281/ZENODO.8375554"
+                    >https://doi.org/10.5281/ZENODO.8375554</a>.</li>
+            <li style="margin-bottom: 1em;">‘VELD’ (2025). Available at: <a
+                    href="https://github.com/acdh-oeaw/VELD_registry"
+                    >https://github.com/acdh-oeaw/VELD_registry</a>.</li>
+            <li style="margin-bottom: 1em;">Vogeler, G. and Hofeneder, P. (2023)
+                ‘Die digitale Transformation der österreichischen Geisteswissenschaften und ihre
+                Herausforderungen für die Zukunft: Strukturelle Perspektiven für die Integration von
+                Datenwissenschaften, maschinellem Lernen und künstlicher Intelligenz’,
+                    <i>Zeitschrift für Hochschulentwicklung</i>, 18 (Sonderheft Forschung), pp.
+                141–162. Available at: <a href="https://doi.org/10.21240/zfhe/SH-F/09"
+                    >https://doi.org/10.21240/zfhe/SH-F/09</a>.</li>
+            <li style="margin-bottom: 1em;">Wallnig, T. (2022) <i>Digital
+                    Humanities-Newsletter der Historisch-Kulturwissenschaftlichen Fakultät der
+                    Universität Wien [Newsletter circulated five times per year]</i>. Available at:
+                    <a
+                    href="https://hist-kult.univie.ac.at/forschung-und-digitales/digitales/newsletter-archiv/"
+                    >https://hist-kult.univie.ac.at/forschung-und-digitales/digitales/newsletter-archiv/</a>.</li>
+            <li style="margin-bottom: 1em;">Wallnig, T. <i>et al.</i> (2025) ‘The
+                learned correspondence of Bernhard and Hieronymus Pez [Data set]’. ARCHE. Available
+                at: <a href="https://hdl.handle.net/21.11115/0000-0016-83C7-3"
+                    >https://hdl.handle.net/21.11115/0000-0016-83C7-3</a>.</li>
+            <li style="margin-bottom: 1em;">Wallnig, T., Rabl, I. and Bisayew,
+                A.S. (2023) ‘The digitized papers of Bernhard and Hieronymus Pez [Data set]’.
+                Available at: <a href="https://hdl.handle.net/21.11115/0000-000F-7406-8"
+                    >https://hdl.handle.net/21.11115/0000-000F-7406-8</a>.</li>
+            <li style="margin-bottom: 1em;">Wang-Kathrein, J. <i>et al.</i>
+                (2020) <i>Joseph Zoderer im Zoom. Web-Portal zu Leben und Werk Joseph Zoderers</i>.
+                Available at: <a href="https://literaturtirol.at/zoderer/#/home"
+                    >https://literaturtirol.at/zoderer/#/home</a>.</li>
+            <li style="margin-bottom: 1em;">Wang-Kathrein, J. (2020) ‘Learn from
+                Wittgenstein’s Error: Why Certain Forms of AI Cannot Work’. <i>Forschungsschwerpunkt
+                    Digital Science Center (DiSC)</i>, Universität Innsbruck, 8 May.</li>
+            <li style="margin-bottom: 1em;">Wang-Kathrein, J. (2021) ‘User
+                Interface Design for Digital Editions: lessons learned in the Jägerstätter Edition
+                Project (online)’. <i>Digital Technologies and Responsibilities. Research Projects
+                    on the interface of academia &amp; public</i>, Meran, 10 December.</li>
+            <li style="margin-bottom: 1em;">Wang-Kathrein, J. (2022)
+                ‘Wittgenstein’s shifting from Tractatus to Philosophical Investigations and its
+                implication for understanding Artificial Intelligence’. <i>Wittgenstein and
+                    Artificial Intelligence: Towards an update</i>, Skjolden, 2 June.</li>
+            <li style="margin-bottom: 1em;">Wang-Kathrein, J. (2023a) ‘Sending
+                research data to Europeana? Experience from the Brenner-Archiv’. <i>Digital
+                    Authoring of the Berlin Collections</i>, Jagiellonen-Universität Krakau,
+                November.</li>
+            <li style="margin-bottom: 1em;">Wang-Kathrein, J. (2023b)
+                ‘Wittgensteins Wechsel vom Tractatus Logico-Philosophicus zu den Philosophischen
+                Untersuchungen und das Scheitern der GOFAI’, in U. Arnswald and I. Somavilla (eds)
+                    <i>Ludwig Wittgenstein. Universalgenie, Genie oder Generalist? Ein Leben
+                    ruhelosen Denkens</i>. Innsbruck: innsbruck university press, pp. 53–76.</li>
+            <li style="margin-bottom: 1em;">Wang-Kathrein, J. (2024) ‘Digital
+                letter editions in Brenner-Archiv: from editorial guidelines to data-modelling’.
+                    <i>Workshop Wittgenstein-Schlick-Scholz</i>, Universität Bergen, 11 June.</li>
+            <li style="margin-bottom: 1em;">Wang-Kathrein, J. and Lobis, U.
+                (2023a) ‘Illusion der Original-Dateien? Eine kritische Prüfung’, in <i>Mitteilungen
+                    aus dem Brenner-Archiv</i>. Innsbruck: innsbruck university press, pp. 123–141.
+                Available at: <a
+                    href="https://www.uibk.ac.at/iup/buch_pdfs/10.15203-1027-5649-4223.pdf"
+                    >https://www.uibk.ac.at/iup/buch_pdfs/10.15203-1027-5649-4223.pdf</a>.</li>
+            <li style="margin-bottom: 1em;">Wang-Kathrein, J. and Lobis, U.
+                (2023b) ‘Technische Umsetzung von Einzelstellenkommentaren und ihre Implikation für
+                das Kommentieren’. <i>Workshop Kommentar und Kommentarpraxis in digitalen
+                    Editionen</i>, Universität Innsbruck, November.</li>
+            <li style="margin-bottom: 1em;">Wang-Kathrein, J. and Lobis, U.
+                (2024) ‘Making Use of Annotations: Tools Developed for Research in the
+                Brenner-Archiv’. <i>Histoire(s) d’archives</i>, CEFRES Prag, December.</li>
+            <li style="margin-bottom: 1em;">Wang-Kathrein, J. and Lobis, U. (no
+                date) <i>Franz &amp; Franziska Jägerstätter Edition</i>. Available at: <a
+                    href="https://edition.jaegerstaetter.at/#/startseite"
+                    >https://edition.jaegerstaetter.at/#/startseite</a>.</li>
+            <li style="margin-bottom: 1em;">Zuanni, C. (2025) ‘(in print) Digital
+                data and object biographies: expanding meanings and (im)materialities in the
+                born-digital realm’, in <i>Proceedings of the International Conference
+                    IM/MATERIALITIES: museums between real and digital, Turin 28th November - 1st
+                    December 2023</i>. Turin: Museo Egizio Torino. Available at: <a
+                    href="https://formazioneericerca.museoegizio.it/en/#pubblicazioni"
+                    >https://formazioneericerca.museoegizio.it/en/#pubblicazioni</a>.</li>
+            <li><i>Zwischen Codices und Codes - Innovative Perspektiven in der
+                    Mittelalter- und frühen Neuzeitforschung</i> (2024). (Ringvorlesung des IZMF
+                WiSe 2024/2025). Available at: <a href="https://unitv.org/beitrag.asp?ID=1238"
+                    >https://unitv.org/beitrag.asp?ID=1238</a>.</li></ul>
+        </div>
+      </div>
+    </div>
+    <!-- .untrtee_co-section -->
+
+    <div class="site-section overlay site-cover-2" style="background-image: url('images/hero-min.jpg')">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-7 mx-auto text-center">
+            </div>
+        </div>
+      </div>
+    </div>
+
+    <!--footer, loaded externally from footer.html-->
+    <div id="footer"></div>
+    
+    <div id="overlayer"></div>
+    <div class="loader">
+      <div class="spinner-border" role="status">
+        <span class="sr-only">Loading...</span>
+      </div>
+    </div>
+
+    <script src="js/jquery-3.5.1.min.js"></script>
+    <script src="js/jquery-migrate-3.0.0.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/aos.js"></script>
+    <script src="js/imagesloaded.pkgd.js"></script>
+    <script src="js/isotope.pkgd.min.js"></script>
+    <script src="js/jquery.animateNumber.min.js"></script>
+    <script src="js/jquery.stellar.min.js"></script>
+    <script src="js/jquery.waypoints.min.js"></script>
+    <script src="js/jquery.fancybox.min.js"></script>
+    <script src="js/custom.js"></script>
+    
+    <!--<script src="js/navbarsearch.js"></script>-->
+    <script src="js/infooverlay.js"></script>
+    <script src="js/overlay.js"></script>
+    <script src="js/footer.js"></script>
+    <script src="js/searchbar.js"></script>
+    
+  </body>
+  </html>
